@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jia-Hsin Huang | BITS</title>
+    <link>/author/jia-hsin-huang/</link>
+      <atom:link href="/author/jia-hsin-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jia-Hsin Huang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jia-Hsin Huang</title>
+      <link>/author/jia-hsin-huang/</link>
+    </image>
+    
+    <item>
+      <title>Inferring the transcriptional regulatory mechanism of signal-dependent gene expression via an integrative computational approach</title>
+      <link>/publication/chiang-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/chiang-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CATANA: a tool for generating comprehensive annotations of alternative transcript events</title>
+      <link>/publication/shiau-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/shiau-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Borders of Cis-Regulatory DNA Sequences Preferentially Harbor the Divergent Transcription Factor Binding Motifs in the Human Genome</title>
+      <link>/publication/10-3389-fgene-2018-00571/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/10-3389-fgene-2018-00571/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative genomic analyses highlight the contribution of pseudogenized protein-coding genes to human lincRNAs</title>
+      <link>/publication/liu-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/liu-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IsoPlot: a database for comparison of mRNA isoforms in fruit fly and mosquitoes.</title>
+      <link>/publication/ng-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ng-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
