@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genome | BITS</title>
+    <link>/tag/genome/</link>
+      <atom:link href="/tag/genome/index.xml" rel="self" type="application/rss+xml" />
+    <description>Genome</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Genome</title>
+      <link>/tag/genome/</link>
+    </image>
+    
+    <item>
+      <title>H3K4 methylation at active genes mitigates transcription-replication conflicts during replication stress.</title>
+      <link>/publication/chong-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/chong-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide analysis of the cis-regulatory modules of divergent gene pairs in yeast.</title>
+      <link>/publication/su-2010/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/su-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-expression of neighboring genes in the zebrafish (Danio rerio) genome.</title>
+      <link>/publication/tsai-2009/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical methods for identifying yeast cell cycle transcription factors.</title>
+      <link>/publication/tsai-2005/</link>
+      <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
