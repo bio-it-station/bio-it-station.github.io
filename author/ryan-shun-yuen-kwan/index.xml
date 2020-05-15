@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ryan Shun-Yuen Kwan | BITS</title>
+    <title>Ryan-Shun-Yuen-Kwan | BITS</title>
     <link>/author/ryan-shun-yuen-kwan/</link>
       <atom:link href="/author/ryan-shun-yuen-kwan/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ryan Shun-Yuen Kwan</description>
+    <description>Ryan-Shun-Yuen-Kwan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Ryan Shun-Yuen Kwan</title>
+      <title>Ryan-Shun-Yuen-Kwan</title>
       <link>/author/ryan-shun-yuen-kwan/</link>
     </image>
+    
+    <item>
+      <title>Borders of Cis-Regulatory DNA Sequences Preferentially Harbor the Divergent Transcription Factor Binding Motifs in the Human Genome</title>
+      <link>/content/publication/10-3389-fgene-2018-00571/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/content/publication/10-3389-fgene-2018-00571/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Borders of Cis-Regulatory DNA Sequences Preferentially Harbor the Divergent Transcription Factor Binding Motifs in the Human Genome</title>

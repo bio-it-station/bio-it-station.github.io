@@ -14,9 +14,25 @@
     
     <item>
       <title>The Impact of Normalization and Phylogenetic Information on Estimating the Distance for Metagenomes</title>
+      <link>/content/publication/10-1109-tcbb-2011-111/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>/content/publication/10-1109-tcbb-2011-111/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Normalization and Phylogenetic Information on Estimating the Distance for Metagenomes</title>
       <link>/publication/10-1109-tcbb-2011-111/</link>
       <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
       <guid>/publication/10-1109-tcbb-2011-111/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of the association between transcription factor binding site variants and distinct accompanying regulatory motifs in yeast.</title>
+      <link>/content/publication/chiang-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/content/publication/chiang-2012/</guid>
       <description></description>
     </item>
     
@@ -30,9 +46,25 @@
     
     <item>
       <title>Evolution of cis-regulatory elements in yeast de novo and duplicated new genes</title>
+      <link>/content/publication/tsai-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/content/publication/tsai-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of cis-regulatory elements in yeast de novo and duplicated new genes</title>
       <link>/publication/tsai-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
       <guid>/publication/tsai-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MetaABC—an integrated metagenomics platform for data adjustment, binning and clustering</title>
+      <link>/content/publication/su-2011/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>/content/publication/su-2011/</guid>
       <description></description>
     </item>
     
@@ -46,9 +78,25 @@
     
     <item>
       <title>Evidence of association between Nucleosome Occupancy and the Evolution of Transcription Factor Binding Sites in Yeast</title>
+      <link>/content/publication/swamy-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/content/publication/swamy-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence of association between Nucleosome Occupancy and the Evolution of Transcription Factor Binding Sites in Yeast</title>
       <link>/publication/swamy-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>/publication/swamy-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reanalyze unassigned reads in Sanger based metagenomic data using conserved gene  adjacency.</title>
+      <link>/content/publication/weng-2010/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>/content/publication/weng-2010/</guid>
       <description></description>
     </item>
     
@@ -62,6 +110,14 @@
     
     <item>
       <title>Co-expression of neighboring genes in the zebrafish (Danio rerio) genome.</title>
+      <link>/content/publication/tsai-2009/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>/content/publication/tsai-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-expression of neighboring genes in the zebrafish (Danio rerio) genome.</title>
       <link>/publication/tsai-2009/</link>
       <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
       <guid>/publication/tsai-2009/</guid>
@@ -70,9 +126,25 @@
     
     <item>
       <title>Roles of Trans and Cis Variation in Yeast Intraspecies Evolution of Gene Expression</title>
+      <link>/content/publication/sung-2009/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>/content/publication/sung-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roles of Trans and Cis Variation in Yeast Intraspecies Evolution of Gene Expression</title>
       <link>/publication/sung-2009/</link>
       <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
       <guid>/publication/sung-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-expression of adjacent genes in yeast cannot be simply attributed to shared regulatory system.</title>
+      <link>/content/publication/tsai-2007/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>/content/publication/tsai-2007/</guid>
       <description></description>
     </item>
     
