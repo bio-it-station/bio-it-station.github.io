@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genes | BITS</title>
+    <link>/tag/genes/</link>
+      <atom:link href="/tag/genes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Genes</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Genes</title>
+      <link>/tag/genes/</link>
+    </image>
+    
+    <item>
+      <title>Comparative genomic analyses highlight the contribution of pseudogenized protein-coding genes to human lincRNAs</title>
+      <link>/publication/liu-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/liu-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IsoPlot: a database for comparison of mRNA isoforms in fruit fly and mosquitoes.</title>
+      <link>/publication/ng-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ng-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide analysis of the cis-regulatory modules of divergent gene pairs in yeast.</title>
+      <link>/publication/su-2010/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/su-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-expression of adjacent genes in yeast cannot be simply attributed to shared regulatory system.</title>
+      <link>/publication/tsai-2007/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

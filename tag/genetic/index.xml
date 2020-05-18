@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genetic | BITS</title>
+    <link>/tag/genetic/</link>
+      <atom:link href="/tag/genetic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Genetic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Genetic</title>
+      <link>/tag/genetic/</link>
+    </image>
+    
+    <item>
+      <title>H3K4 methylation at active genes mitigates transcription-replication conflicts during replication stress.</title>
+      <link>/publication/chong-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/chong-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The CrdRS two-component system in Helicobacter pylori responds to nitrosative stress.</title>
+      <link>/publication/hung-2015/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/hung-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of the association between transcription factor binding site variants and distinct accompanying regulatory motifs in yeast.</title>
+      <link>/publication/chiang-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/chiang-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide analysis of the cis-regulatory modules of divergent gene pairs in yeast.</title>
+      <link>/publication/su-2010/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/su-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-expression of neighboring genes in the zebrafish (Danio rerio) genome.</title>
+      <link>/publication/tsai-2009/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-expression of adjacent genes in yeast cannot be simply attributed to shared regulatory system.</title>
+      <link>/publication/tsai-2007/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical methods for identifying yeast cell cycle transcription factors.</title>
+      <link>/publication/tsai-2005/</link>
+      <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An evolutionary approach for gene expression patterns.</title>
+      <link>/publication/tsai-2004/</link>
+      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GEM: a Gaussian Evolutionary Method for predicting protein side-chain conformations.</title>
+      <link>/publication/yang-2002/</link>
+      <pubDate>Thu, 01 Aug 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/yang-2002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

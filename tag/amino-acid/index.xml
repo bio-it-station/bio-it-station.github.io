@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amino Acid | BITS</title>
+    <link>/tag/amino-acid/</link>
+      <atom:link href="/tag/amino-acid/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amino Acid</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Amino Acid</title>
+      <link>/tag/amino-acid/</link>
+    </image>
+    
+    <item>
+      <title>Cysteine separations profiles on protein sequences infer disulfide connectivity.</title>
+      <link>/publication/zhao-2005/</link>
+      <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/zhao-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

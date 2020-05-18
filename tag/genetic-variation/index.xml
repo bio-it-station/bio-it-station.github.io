@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genetic Variation | BITS</title>
+    <link>/tag/genetic-variation/</link>
+      <atom:link href="/tag/genetic-variation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Genetic Variation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Genetic Variation</title>
+      <link>/tag/genetic-variation/</link>
+    </image>
+    
+    <item>
+      <title>Analysis of the association between transcription factor binding site variants and distinct accompanying regulatory motifs in yeast.</title>
+      <link>/publication/chiang-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/chiang-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An evolutionary approach for gene expression patterns.</title>
+      <link>/publication/tsai-2004/</link>
+      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2004/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

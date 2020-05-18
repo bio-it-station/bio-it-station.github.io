@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Protein Binding | BITS</title>
+    <link>/tag/protein-binding/</link>
+      <atom:link href="/tag/protein-binding/index.xml" rel="self" type="application/rss+xml" />
+    <description>Protein Binding</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Protein Binding</title>
+      <link>/tag/protein-binding/</link>
+    </image>
+    
+    <item>
+      <title>Evolutionary conservation of DNA-contact residues in DNA-binding domains.</title>
+      <link>/publication/chang-2008/</link>
+      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/chang-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MYBS: a comprehensive web server for mining transcription factor binding sites in yeast.</title>
+      <link>/publication/tsai-2007-a/</link>
+      <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2007-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method for identifying transcription factor binding sites in yeast.</title>
+      <link>/publication/tsai-2006/</link>
+      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cysteine separations profiles on protein sequences infer disulfide connectivity.</title>
+      <link>/publication/zhao-2005/</link>
+      <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/zhao-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,20 +5,12 @@
     <link>/author/cheng-kai-shiau/</link>
       <atom:link href="/author/cheng-kai-shiau/index.xml" rel="self" type="application/rss+xml" />
     <description>Cheng-Kai Shiau</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>/author/cheng-kai-shiau/avatar_hub6e4a8db6078f0c700ca3ca1bf2e10aa_6892_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Cheng-Kai Shiau</title>
       <link>/author/cheng-kai-shiau/</link>
     </image>
-    
-    <item>
-      <title>CATANA: a tool for generating comprehensive annotations of alternative transcript events</title>
-      <link>/publication/shiau-2018/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/shiau-2018/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
