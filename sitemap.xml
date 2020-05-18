@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/aboutus/</loc>
-  </url>
-  
-  <url>
     <loc>/publication-type/2/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
@@ -17,17 +13,7 @@
   </url>
   
   <url>
-    <loc>/tag/cell-cycle/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/cell-cycle-proteins/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/checkpoint-kinase-2/</loc>
+    <loc>/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -42,52 +28,12 @@
   </url>
   
   <url>
-    <loc>/tag/chromatin/</loc>
+    <loc>/content/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/combinatorial-control/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/dna/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/dna-polymerase-ii/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/dna-replication/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/fungal/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/genetic/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/genetics/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/genome/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/genomic-instability/</loc>
+    <loc>/content/publication/chong-2020/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -102,17 +48,17 @@
   </url>
   
   <url>
-    <loc>/tag/histone-lysine-n-methyltransferase/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/histones/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/huai-kuang-tsai/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/huang-jia-hsin/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/content/publication/chiang-2020/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -132,32 +78,7 @@
   </url>
   
   <url>
-    <loc>/tag/kinetic-modeling/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/mariko-okada/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/metabolism/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/methylation/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/models/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/mutation/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -167,27 +88,12 @@
   </url>
   
   <url>
+    <loc>/content/publication/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/regression-analysis/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/s-phase-cell-cycle-checkpoints/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/saccharomyces-cerevisiae/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/saccharomyces-cerevisiae-proteins/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -202,11 +108,6 @@
   </url>
   
   <url>
-    <loc>/tag/signal-transduction/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/sue-biggins/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
@@ -217,32 +118,17 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/toshio-tsukiyama/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/transcription/</loc>
+    <loc>/author/tsai-cheng-hung/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/transcription-factor/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/transcriptional/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/transcriptional-regulation/</loc>
+    <loc>/author/tsai-huai-kuang/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -272,8 +158,18 @@
   </url>
   
   <url>
+    <loc>/content/publication/lin-2019/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/lin-2019/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/content/publication/shiau-2018/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -287,22 +183,22 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <loc>/author/shiau-cheng-kai/</loc>
+    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <loc>/content/publication/10-3389-fgene-2018-00571/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/10-3389-fgene-2018-00571/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lin-tzu-chieh/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -322,37 +218,12 @@
   </url>
   
   <url>
-    <loc>/tag/animals/</loc>
+    <loc>/content/publication/liu-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/liu-2017/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/competing-endogenous-rna/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/culicidae/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/databases/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/drosophila/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/genes/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -367,7 +238,7 @@
   </url>
   
   <url>
-    <loc>/tag/insect/</loc>
+    <loc>/content/publication/ng-2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -377,68 +248,13 @@
   </url>
   
   <url>
-    <loc>/tag/long-intergenic-noncoding-rnas/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/messenger/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/nucleic-acid/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/pseudogenization/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/rna/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/shang-chi-tsai/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/species-specificity/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/syntenic-analysis/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/transposable-element/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/user-computer-interface/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/wan-hsin-liu/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/bacterial-proteins/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/base-sequence/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -457,62 +273,12 @@
   </url>
   
   <url>
-    <loc>/tag/copper/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/dna-binding-proteins/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/gene-expression-profiling/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/gene-knockout-techniques/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/helicobacter-pylori/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/hsin-hung-cheng/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/molecular/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/molecular-sequence-data/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/nitric-oxide/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/physiological/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/promoter-regions/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/stress/</loc>
+    <loc>/content/publication/hung-2015/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -547,12 +313,22 @@
   </url>
   
   <url>
+    <loc>/content/publication/10-1371-journal-pcbi-1004418/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/10-1371-journal-pcbi-1004418/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/david-zhi-chao-pan/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/content/publication/cheng-2015/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -572,6 +348,11 @@
   </url>
   
   <url>
+    <loc>/content/publication/tsai-2013/</loc>
+    <lastmod>2013-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/tsai-2013/</loc>
     <lastmod>2013-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -582,57 +363,12 @@
   </url>
   
   <url>
-    <loc>/tag/binding-sites/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/drosophila-melanogaster/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/evolution/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/gene-expression-regulation/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/humans/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/mice/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/micrornas/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/protein/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/proteins/</loc>
+    <loc>/content/publication/chen-2013/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/chen-2013/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/transcription-factors/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -647,37 +383,12 @@
   </url>
   
   <url>
-    <loc>/tag/accuracy/</loc>
-    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/bioinformatics/</loc>
-    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/cheng-yan-kao/</loc>
     <lastmod>2012-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/chien-hao-su/</loc>
-    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/communities/</loc>
-    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/computational-biology/</loc>
-    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/correlation/</loc>
     <lastmod>2012-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -697,12 +408,7 @@
   </url>
   
   <url>
-    <loc>/tag/phylogeny/</loc>
-    <lastmod>2012-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/reliability/</loc>
+    <loc>/content/publication/10-1109-tcbb-2011-111/</loc>
     <lastmod>2012-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -717,12 +423,7 @@
   </url>
   
   <url>
-    <loc>/tag/amino-acid/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/amino-acid-motifs/</loc>
+    <loc>/content/publication/chiang-2012/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -747,6 +448,11 @@
   </url>
   
   <url>
+    <loc>/content/publication/chen-2012/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/chen-2012/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -757,17 +463,12 @@
   </url>
   
   <url>
+    <loc>/content/publication/tsai-2012/</loc>
+    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/tsai-2012/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/genetic-variation/</loc>
-    <lastmod>2012-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/genome-wide-association-study/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -817,6 +518,11 @@
   </url>
   
   <url>
+    <loc>/content/publication/wang-2011/</loc>
+    <lastmod>2011-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/wang-2011/</loc>
     <lastmod>2011-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -828,6 +534,11 @@
   
   <url>
     <loc>/author/francis-c-weng/</loc>
+    <lastmod>2011-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/content/publication/su-2011/</loc>
     <lastmod>2011-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -847,13 +558,13 @@
   </url>
   
   <url>
-    <loc>/publication/swamy-2011/</loc>
+    <loc>/content/publication/swamy-2011/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/chemistry/</loc>
-    <lastmod>2010-12-01T00:00:00+00:00</lastmod>
+    <loc>/publication/swamy-2011/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -862,7 +573,7 @@
   </url>
   
   <url>
-    <loc>/tag/enhancer-elements/</loc>
+    <loc>/content/publication/su-2010/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -872,37 +583,12 @@
   </url>
   
   <url>
-    <loc>/tag/oligonucleotide-array-sequence-analysis/</loc>
-    <lastmod>2010-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/tien-hsien-chang/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tag/algorithms/</loc>
-    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/factual/</loc>
-    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/gene-order/</loc>
-    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/metagenomics/</loc>
-    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/methods/</loc>
+    <loc>/content/publication/weng-2010/</loc>
     <lastmod>2010-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -912,12 +598,12 @@
   </url>
   
   <url>
-    <loc>/tag/sequence-analysis/</loc>
-    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+    <loc>/author/chung-yi-cho/</loc>
+    <lastmod>2009-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/chung-yi-cho/</loc>
+    <loc>/content/publication/swamy-2009/</loc>
     <lastmod>2009-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -927,22 +613,17 @@
   </url>
   
   <url>
+    <loc>/content/publication/tsai-2009/</loc>
+    <lastmod>2009-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/tsai-2009/</loc>
     <lastmod>2009-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/author/pei-ying-huang/</loc>
-    <lastmod>2009-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/zebrafish/</loc>
-    <lastmod>2009-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/zebrafish-proteins/</loc>
     <lastmod>2009-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -987,6 +668,11 @@
   </url>
   
   <url>
+    <loc>/content/publication/sung-2009/</loc>
+    <lastmod>2009-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/sung-2009/</loc>
     <lastmod>2009-07-01T00:00:00+00:00</lastmod>
   </url>
@@ -1022,12 +708,7 @@
   </url>
   
   <url>
-    <loc>/tag/amino-acid-sequence/</loc>
-    <lastmod>2008-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/conserved-sequence/</loc>
+    <loc>/content/publication/chang-2008/</loc>
     <lastmod>2008-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1038,11 +719,6 @@
   
   <url>
     <loc>/author/jinn-moon-yang/</loc>
-    <lastmod>2008-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/protein-binding/</loc>
     <lastmod>2008-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1067,6 +743,11 @@
   </url>
   
   <url>
+    <loc>/content/publication/chen-2008/</loc>
+    <lastmod>2008-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/chen-2008/</loc>
     <lastmod>2008-02-01T00:00:00+00:00</lastmod>
   </url>
@@ -1082,12 +763,12 @@
   </url>
   
   <url>
-    <loc>/tag/yeasts/</loc>
-    <lastmod>2008-02-01T00:00:00+00:00</lastmod>
+    <loc>/author/cindy-p-c-su/</loc>
+    <lastmod>2007-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/author/cindy-p-c-su/</loc>
+    <loc>/content/publication/tsai-2007/</loc>
     <lastmod>2007-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1102,27 +783,12 @@
   </url>
   
   <url>
-    <loc>/tag/physiology/</loc>
-    <lastmod>2007-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/regulatory-elements/</loc>
-    <lastmod>2007-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/gene-targeting/</loc>
-    <lastmod>2007-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/internet/</loc>
-    <lastmod>2007-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/meng-yuan-chou/</loc>
+    <lastmod>2007-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/content/publication/tsai-2007-a/</loc>
     <lastmod>2007-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1132,8 +798,8 @@
   </url>
   
   <url>
-    <loc>/tag/sequence-alignment/</loc>
-    <lastmod>2007-07-01T00:00:00+00:00</lastmod>
+    <loc>/content/publication/tsai-2006/</loc>
+    <lastmod>2006-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1142,33 +808,13 @@
   </url>
   
   <url>
-    <loc>/tag/chromatin-immunoprecipitation/</loc>
-    <lastmod>2005-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/data-interpretation/</loc>
-    <lastmod>2005-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/predictive-value-of-tests/</loc>
-    <lastmod>2005-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/statistical/</loc>
+    <loc>/content/publication/tsai-2005/</loc>
     <lastmod>2005-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/tsai-2005/</loc>
     <lastmod>2005-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/chemical/</loc>
-    <lastmod>2005-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1182,22 +828,12 @@
   </url>
   
   <url>
-    <loc>/tag/computer-simulation/</loc>
-    <lastmod>2005-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/cysteine/</loc>
+    <loc>/content/publication/zhao-2005/</loc>
     <lastmod>2005-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/zhao-2005/</loc>
-    <lastmod>2005-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/disulfides/</loc>
     <lastmod>2005-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1212,142 +848,12 @@
   </url>
   
   <url>
-    <loc>/tag/protein-folding/</loc>
-    <lastmod>2005-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/sequence-homology/</loc>
-    <lastmod>2005-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/software/</loc>
-    <lastmod>2005-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/structure-activity-relationship/</loc>
-    <lastmod>2005-04-01T00:00:00+00:00</lastmod>
+    <loc>/content/publication/1315755/</loc>
+    <lastmod>2004-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/1315755/</loc>
-    <lastmod>2004-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/artificial-intelligence/</loc>
-    <lastmod>2004-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/assembly/</loc>
-    <lastmod>2004-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/cities-and-towns/</loc>
-    <lastmod>2004-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/computer-science/</loc>
-    <lastmod>2004-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/decision-support-techniques/</loc>
-    <lastmod>2004-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/eaxlin-kernighan-local-search/</loc>
-    <lastmod>2004-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/edge-assembly-crossover/</loc>
-    <lastmod>2004-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/evolutionary-computation/</loc>
-    <lastmod>2004-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/family-competition/</loc>
-    <lastmod>2004-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/genetic-models/</loc>
-    <lastmod>2004-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/genetic-operator/</loc>
-    <lastmod>2004-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/hesea/</loc>
-    <lastmod>2004-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/heterogeneous-selection-evolutionary-algorithm/</loc>
-    <lastmod>2004-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/large-traveling-salesman-problem/</loc>
-    <lastmod>2004-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/lk-heuristic/</loc>
-    <lastmod>2004-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/optimization-methods/</loc>
-    <lastmod>2004-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/search-methods/</loc>
-    <lastmod>2004-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/testing/</loc>
-    <lastmod>2004-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/theoretical/</loc>
-    <lastmod>2004-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/traveling-salesman-problem/</loc>
-    <lastmod>2004-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/traveling-salesman-problems/</loc>
-    <lastmod>2004-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/travelling-salesman-problems/</loc>
-    <lastmod>2004-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/tsp/</loc>
     <lastmod>2004-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1357,32 +863,12 @@
   </url>
   
   <url>
+    <loc>/content/publication/tsai-2004/</loc>
+    <lastmod>2004-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/tsai-2004/</loc>
-    <lastmod>2004-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/cluster-analysis/</loc>
-    <lastmod>2004-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/dna-mutational-analysis/</loc>
-    <lastmod>2004-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/genetic-linkage/</loc>
-    <lastmod>2004-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/reproducibility-of-results/</loc>
-    <lastmod>2004-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/sensitivity-and-specificity/</loc>
     <lastmod>2004-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1398,6 +884,11 @@
   
   <url>
     <loc>/author/chun-fan-chang/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/content/publication/inproceedings/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1422,6 +913,11 @@
   </url>
   
   <url>
+    <loc>/content/publication/tsai-2004-a/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/tsai-2004-a/</loc>
     <lastmod>2004-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -1437,12 +933,7 @@
   </url>
   
   <url>
-    <loc>/tag/genetic-algorithm/</loc>
-    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/heterogeneous-pairing-selection/</loc>
+    <loc>/content/publication/article/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1452,17 +943,7 @@
   </url>
   
   <url>
-    <loc>/tag/neighbor-join-mutation/</loc>
-    <lastmod>2003-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/amino-acids/</loc>
-    <lastmod>2002-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/classification/</loc>
+    <loc>/content/publication/yang-2002/</loc>
     <lastmod>2002-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1482,42 +963,11 @@
   </url>
   
   <url>
-    <loc>/tag/mutagenesis/</loc>
-    <lastmod>2002-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/peptide-library/</loc>
-    <lastmod>2002-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/protein-conformation/</loc>
-    <lastmod>2002-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/recombination/</loc>
-    <lastmod>2002-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/static-electricity/</loc>
-    <lastmod>2002-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/statistics-as-topic/</loc>
-    <lastmod>2002-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tag/thermodynamics/</loc>
-    <lastmod>2002-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/chen-yu-hsin/</loc>
   </url>
   
   <url>
@@ -1525,7 +975,15 @@
   </url>
   
   <url>
+    <loc>/content/authors/tsai-cheng-hung/</loc>
+  </url>
+  
+  <url>
     <loc>/author/cheng-kai-shiau/</loc>
+  </url>
+  
+  <url>
+    <loc>/content/authors/shiau-cheng-kai/</loc>
   </url>
   
   <url>
@@ -1533,11 +991,35 @@
   </url>
   
   <url>
+    <loc>/content/authors/tsai-huai-kuang/</loc>
+  </url>
+  
+  <url>
     <loc>/author/jia-hsin-huang/</loc>
   </url>
   
   <url>
+    <loc>/content/authors/huang-jia-hsin/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/liu-yen-ling/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/liu-yu-ting/</loc>
+  </url>
+  
+  <url>
+    <loc>/content/post/</loc>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
+  </url>
+  
+  <url>
+    <loc>/content/talk/</loc>
   </url>
   
   <url>
@@ -1549,7 +1031,15 @@
   </url>
   
   <url>
+    <loc>/content/authors/alumnis/</loc>
+  </url>
+  
+  <url>
     <loc>/author/tzu-chieh-lin/</loc>
+  </url>
+  
+  <url>
+    <loc>/content/authors/lin-tzu-chieh/</loc>
   </url>
   
   <url>
@@ -1557,11 +1047,23 @@
   </url>
   
   <url>
+    <loc>/content/authors/liu-yen-ling/</loc>
+  </url>
+  
+  <url>
     <loc>/author/yu-hsin-chen/</loc>
   </url>
   
   <url>
+    <loc>/content/authors/chen-yu-hsin/</loc>
+  </url>
+  
+  <url>
     <loc>/author/yu-ting-liu/</loc>
+  </url>
+  
+  <url>
+    <loc>/content/authors/liu-yu-ting/</loc>
   </url>
   
 </urlset>
