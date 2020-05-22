@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Careers | BITS</title>
+    <link>/career/</link>
+      <atom:link href="/career/index.xml" rel="self" type="application/rss+xml" />
+    <description>Careers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 May 2020 16:16:04 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_2.png</url>
+      <title>Careers</title>
+      <link>/career/</link>
+    </image>
+    
+    <item>
+      <title>Research Assistant [Masters]</title>
+      <link>/career/research-assistant-masters/</link>
+      <pubDate>Fri, 22 May 2020 16:16:04 +0800</pubDate>
+      <guid>/career/research-assistant-masters/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
