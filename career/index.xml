@@ -5,7 +5,7 @@
     <link>/career/</link>
       <atom:link href="/career/index.xml" rel="self" type="application/rss+xml" />
     <description>Careers</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 May 2020 16:16:04 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 26 May 2020 16:18:33 +0800</lastBuildDate>
     <image>
       <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_2.png</url>
       <title>Careers</title>
@@ -13,11 +13,46 @@
     </image>
     
     <item>
-      <title>Research Assistant [Masters]</title>
-      <link>/career/research-assistant-masters/</link>
+      <title>Recruitment: Postdoc</title>
+      <link>/career/postdoc/</link>
+      <pubDate>Tue, 26 May 2020 16:18:33 +0800</pubDate>
+      <guid>/career/postdoc/</guid>
+      <description>&lt;h3 id=&#34;職稱&#34;&gt;職稱：&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;博士後研究員&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;應徵資格條件&#34;&gt;應徵資格/條件：&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;具 生物/生物資訊 相關研究經驗者&lt;/li&gt;
+&lt;li&gt;具有基礎程式設計經驗者&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;工作內容&#34;&gt;工作內容&lt;/h3&gt;
+&lt;p&gt;本研究室主要以資訊技術與統計方法分析生物實驗巨量數據資料，目前研究方向包括利用資料探勘與機器學習技術了解基因表現的調控，以及分析生物實驗的影像或生理反應的資料作為其他的預測應用。工作內容主要為協助計畫之執行與論文發表。&lt;/p&gt;
+&lt;h3 id=&#34;應徵方式&#34;&gt;應徵方式&lt;/h3&gt;
+&lt;p&gt;意者請準備履歷，並簡短說明研究方向及近期發表成果，Email 給蔡懷寬老師。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recruitment: Research Assistant</title>
+      <link>/career/research-assistant/</link>
       <pubDate>Fri, 22 May 2020 16:16:04 +0800</pubDate>
-      <guid>/career/research-assistant-masters/</guid>
-      <description></description>
+      <guid>/career/research-assistant/</guid>
+      <description>&lt;h3 id=&#34;職稱&#34;&gt;職稱：&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;專任研究助理&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;應徵資格條件&#34;&gt;應徵資格/條件：&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;具程式撰寫能力 (任一程式語言皆可)&lt;/li&gt;
+&lt;li&gt;即將取得 (或已取得) 碩士學位&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;工作內容&#34;&gt;工作內容&lt;/h3&gt;
+&lt;p&gt;基因體上千分之一不到的序列差異如何使人與人如此不同? 完全相同的基因體又如何產生出多種變化的細胞型態? 我們找尋基因體上的蛛絲馬跡，嘗試了解生命體如何透過基因調控系統，成就多采多姿的生命萬象。如果你曾思考過類似的議題，或剛好你就是這方面的專家，竭誠歡迎加入我們!&lt;/p&gt;
+&lt;p&gt;本研究室主要以資訊技術與統計方法分析生物實驗巨量數據資料，目前研究方向包括利用資料探勘與機器學習技術了解基因表現的調控，以及分析生物實驗的影像或生理反應的資料作為其他的預測應用。希望能有機器學習相關知識或實作經驗的新成員加入團隊。&lt;/p&gt;
+&lt;h3 id=&#34;應徵方式&#34;&gt;應徵方式&lt;/h3&gt;
+&lt;p&gt;意者請準備履歷，Email 給蔡懷寬老師。&lt;/p&gt;
+</description>
     </item>
     
   </channel>

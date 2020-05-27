@@ -4,30 +4,32 @@
   
   <url>
     <loc>/author/jia-hsin-huang/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-21T21:39:44+08:00</lastmod>
   </url>
   
   <url>
     <loc>/author/cheng-hung-tsai/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-21T21:39:44+08:00</lastmod>
   </url>
   
   <url>
     <loc>/author/tzu-chieh-lin/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-21T21:39:44+08:00</lastmod>
   </url>
   
   <url>
     <loc>/author/yu-ting-liu/</loc>
+    <lastmod>2020-05-21T20:35:10+08:00</lastmod>
   </url>
   
   <url>
     <loc>/author/yen-ling-liu/</loc>
+    <lastmod>2020-05-21T21:39:26+08:00</lastmod>
   </url>
   
   <url>
     <loc>/author/cheng-kai-shiau/</loc>
-    <lastmod>2018-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-21T21:39:44+08:00</lastmod>
   </url>
   
   <url>
@@ -36,26 +38,76 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-05-22T16:16:04+08:00</lastmod>
+    <lastmod>2020-05-26T16:18:33+08:00</lastmod>
   </url>
   
   <url>
     <loc>/career/</loc>
-    <lastmod>2020-05-22T16:16:04+08:00</lastmod>
+    <lastmod>2020-05-26T16:18:33+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/career/research-assistant-masters/</loc>
-    <lastmod>2020-05-22T16:16:04+08:00</lastmod>
+    <loc>/career/postdoc/</loc>
+    <lastmod>2020-05-26T16:18:33+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+    <loc>/career/research-assistant/</loc>
+    <lastmod>2020-05-22T16:16:04+08:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
+    <lastmod>2020-05-21T21:39:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/huai-kuang-tsai/</loc>
+    <lastmod>2020-05-21T21:39:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-05-21T21:39:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/tfas/</loc>
+    <lastmod>2020-05-21T21:39:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/chin-yao-chang/</loc>
+    <lastmod>2020-05-21T21:39:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jimmy-hung-chih-ni/</loc>
+    <lastmod>2020-05-21T21:39:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/lncrna/</loc>
+    <lastmod>2020-05-21T21:39:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yi-hsien-chang/</loc>
+    <lastmod>2020-05-21T21:39:26+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020-05-21-new_website/</loc>
+    <lastmod>2020-05-21T20:35:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-05-21T20:35:10+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -71,11 +123,6 @@
   
   <url>
     <loc>/author/hisaaki-shinohara/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/huai-kuang-tsai/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -135,12 +182,7 @@
   </url>
   
   <url>
-    <loc>/post/chinese-year-end-party/</loc>
-    <lastmod>2020-01-21T15:16:42+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
+    <loc>/post/2020-01-21-chinese-year-end-party/</loc>
     <lastmod>2020-01-21T15:16:42+08:00</lastmod>
   </url>
   
@@ -170,12 +212,12 @@
   </url>
   
   <url>
-    <loc>/post/bits-lab-christmas-party/</loc>
+    <loc>/post/2018-12-30-bits-lab-christmas-party/</loc>
     <lastmod>2018-12-30T15:15:38+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/lab-farewell/</loc>
+    <loc>/post/2018-10-20-lab-farewell/</loc>
     <lastmod>2018-10-20T15:14:33+08:00</lastmod>
   </url>
   
@@ -185,7 +227,7 @@
   </url>
   
   <url>
-    <loc>/post/lab-softball/</loc>
+    <loc>/post/2018-06-03-lab-softball/</loc>
     <lastmod>2018-06-03T15:13:06+08:00</lastmod>
   </url>
   
@@ -205,12 +247,12 @@
   </url>
   
   <url>
-    <loc>/post/lab-hiking/</loc>
+    <loc>/post/2017-05-22-lab-hiking/</loc>
     <lastmod>2017-05-22T15:12:01+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/lab-cycle-challenge/</loc>
+    <loc>/post/2017-01-17-lab-cycle-challenge/</loc>
     <lastmod>2017-01-17T15:10:57+08:00</lastmod>
   </url>
   
@@ -245,12 +287,12 @@
   </url>
   
   <url>
-    <loc>/post/jia-hsin-ryan-and-bonnie-presented-in-isegb2016/</loc>
+    <loc>/post/2016-11-25-jia-hsin-ryan-and-bonnie-presented-in-isegb2016/</loc>
     <lastmod>2016-11-25T15:10:11+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/lab-gathering/</loc>
+    <loc>/post/2016-09-16-lab-gathering/</loc>
     <lastmod>2016-09-16T15:09:04+08:00</lastmod>
   </url>
   
@@ -305,7 +347,7 @@
   </url>
   
   <url>
-    <loc>/post/lab-camping/</loc>
+    <loc>/post/2015-01-29-lab-camping/</loc>
     <lastmod>2015-01-29T15:08:16+08:00</lastmod>
   </url>
   
@@ -335,37 +377,37 @@
   </url>
   
   <url>
-    <loc>/post/david-wan-hsin-and-ryan-presented-in-isegb2014/</loc>
+    <loc>/post/2014-11-07-david-wan-hsin-and-ryan-presented-in-isegb2014/</loc>
     <lastmod>2014-11-07T15:07:35+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/nangangshan/</loc>
+    <loc>/post/2014-01-21-nangangshan/</loc>
     <lastmod>2014-01-21T15:06:22+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/zing-phd-thesis-defense/</loc>
+    <loc>/post/2013-11-15-zing-phd-thesis-defense/</loc>
     <lastmod>2013-11-15T15:04:34+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/pizza-party-with-professor-shin-han-shiu/</loc>
+    <loc>/post/2013-11-12-pizza-party-with-professor-shin-han-shiu/</loc>
     <lastmod>2013-11-12T15:03:20+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/zing-won-most-popular-poster-in-isegb-2013/</loc>
+    <loc>/post/2013-11-09-zing-won-most-popular-poster-in-isegb-2013/</loc>
     <lastmod>2013-11-09T15:02:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/visit-to-dr-chun-hong-chen-laboratory-at-nhri/</loc>
+    <loc>/post/2013-11-04-visit-to-dr-chun-hong-chen-laboratory-at-nhri/</loc>
     <lastmod>2013-11-04T15:01:07+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/zing-won-best-presentation-at-bit-2013/</loc>
+    <loc>/post/2013-10-20-zing-won-best-presentation-at-bit-2013/</loc>
     <lastmod>2013-10-20T14:58:52+08:00</lastmod>
   </url>
   
@@ -380,17 +422,17 @@
   </url>
   
   <url>
-    <loc>/post/chih-hsu-wedding-ceremony/</loc>
+    <loc>/post/2013-09-07-chih-hsu-wedding-ceremony/</loc>
     <lastmod>2013-09-07T14:56:20+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/dream-lake-and-mountain-hsin/</loc>
+    <loc>/post/2013-08-28-dream-lake-and-mountain-hsin/</loc>
     <lastmod>2013-08-28T14:54:38+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/chien-hao-graduation-luncheon/</loc>
+    <loc>/post/2013-07-16-chien-hao-graduation-luncheon/</loc>
     <lastmod>2013-07-16T18:45:39+08:00</lastmod>
   </url>
   
@@ -410,42 +452,42 @@
   </url>
   
   <url>
-    <loc>/post/jiufeng-and-jingguashi/</loc>
+    <loc>/post/2013-01-22-jiufeng-and-jingguashi/</loc>
     <lastmod>2013-01-22T18:44:25+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/crg-and-as-exchange-workshop/</loc>
+    <loc>/post/2012-11-28-crg-and-as-exchange-workshop/</loc>
     <lastmod>2012-11-28T18:42:57+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/zing-won-best-oral-in-isegb-2012/</loc>
+    <loc>/post/2012-10-21-zing-won-best-oral-in-isegb-2012/</loc>
     <lastmod>2012-10-21T18:41:09+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/isegb-at-nsysu/</loc>
+    <loc>/post/2012-10-15-isegb-at-nsysu/</loc>
     <lastmod>2012-10-15T18:39:48+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/encode-presentation-series/</loc>
+    <loc>/post/2012-10-04-encode-presentation-series/</loc>
     <lastmod>2012-10-04T18:37:47+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/farewell-and-welcome-party/</loc>
+    <loc>/post/2012-06-30-farewell-and-welcome-party/</loc>
     <lastmod>2012-06-30T18:36:48+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/phd-thesis-defense-of-krishna/</loc>
+    <loc>/post/2012-06-12-phd-thesis-defense-of-krishna/</loc>
     <lastmod>2012-06-12T18:35:35+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/minisymposium-at-nhri/</loc>
+    <loc>/post/2012-05-25-minisymposium-at-nhri/</loc>
     <lastmod>2012-05-25T18:33:40+08:00</lastmod>
   </url>
   
@@ -570,7 +612,7 @@
   </url>
   
   <url>
-    <loc>/post/introducing-metaabc/</loc>
+    <loc>/post/2011-06-22-introducing-metaabc/</loc>
     <lastmod>2011-06-22T18:26:12+08:00</lastmod>
   </url>
   
@@ -907,6 +949,10 @@
   <url>
     <loc>/author/ming-jing-hwang/</loc>
     <lastmod>2002-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/hk_full_profile/</loc>
   </url>
   
   <url>

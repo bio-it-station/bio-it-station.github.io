@@ -5,12 +5,21 @@
     <link>/author/yu-ting-liu/</link>
       <atom:link href="/author/yu-ting-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yu-Ting Liu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 May 2020 20:35:10 +0800</lastBuildDate>
     <image>
       <url>/author/yu-ting-liu/avatar_hubdac17045503e91d4e5697a48f5c992b_82638_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Yu-Ting Liu</title>
       <link>/author/yu-ting-liu/</link>
     </image>
+    
+    <item>
+      <title>A Brand New BITS!!</title>
+      <link>/post/2020-05-21-new_website/</link>
+      <pubDate>Thu, 21 May 2020 20:35:10 +0800</pubDate>
+      <guid>/post/2020-05-21-new_website/</guid>
+      <description>&lt;p&gt;Our old website, which built by wordpress, was gradually being difficult to maintain. Therefore, we shift to hugo, an open-source static site generator, to build up a new website recently. The website is still under construction and we&amp;rsquo;ll keep updating our current projects as soon as possible. We really need advices to make it perfect, any suggestions are welcome!&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

@@ -5,12 +5,30 @@
     <link>/author/cheng-hung-tsai/</link>
       <atom:link href="/author/cheng-hung-tsai/index.xml" rel="self" type="application/rss+xml" />
     <description>Cheng-Hung Tsai</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 May 2020 21:39:44 +0800</lastBuildDate>
     <image>
       <url>/author/cheng-hung-tsai/avatar_hu4443b3c292aa949f56dee8ec3bbd654b_102300_270x270_fill_lanczos_center_2.png</url>
       <title>Cheng-Hung Tsai</title>
       <link>/author/cheng-hung-tsai/</link>
     </image>
+    
+    <item>
+      <title>TFAS</title>
+      <link>/project/tfas/</link>
+      <pubDate>Thu, 21 May 2020 21:39:44 +0800</pubDate>
+      <guid>/project/tfas/</guid>
+      <description>&lt;p&gt;Alternative splicing (AS), the selective removal of exons and reconnection of exons by multiple processes, shapes how genetic information controls important cellular functions in different tissues of higher metazoans. In this project, we would like to investigate the association between AS and chromatin accessibility of promoter bound by different TFs genome-widely.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LncRNA</title>
+      <link>/project/lncrna/</link>
+      <pubDate>Thu, 21 May 2020 21:39:26 +0800</pubDate>
+      <guid>/project/lncrna/</guid>
+      <description>&lt;p&gt;LncRNA, a transcript within 200 nucletides and without coding potential, could interact with either single-stranded or double-stranded DNA and further regulate gene expression. The overall goal of this project is to better understand the function of lncRNA acting on the transcriptional regulation and epigenetic regulation via lncRNA-DNA triplexes formation. Our primary goal is to elucidate the fundamental features of lncRNA-DNA interactions in the genomes and further develop prediction tools. Following the identification of lncRNA-DNA interaction loci, we are going to study the relationships between different lncRNAs and their associations with gene expression and chromatin status.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>H3K4 methylation at active genes mitigates transcription-replication conflicts during replication stress.</title>
