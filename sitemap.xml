@@ -38,22 +38,17 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-05-26T16:18:33+08:00</lastmod>
+    <lastmod>2020-06-03T16:44:39+08:00</lastmod>
   </url>
   
   <url>
     <loc>/career/</loc>
-    <lastmod>2020-05-26T16:18:33+08:00</lastmod>
+    <lastmod>2020-06-03T16:44:39+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/career/postdoc/</loc>
-    <lastmod>2020-05-26T16:18:33+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/career/research-assistant/</loc>
-    <lastmod>2020-05-22T16:16:04+08:00</lastmod>
+    <loc>/career/research-assistant-2020/</loc>
+    <lastmod>2020-06-03T16:44:39+08:00</lastmod>
   </url>
   
   <url>
@@ -952,7 +947,11 @@
   </url>
   
   <url>
-    <loc>/hk_full_profile/</loc>
+    <loc>/admin_profile/</loc>
+  </url>
+  
+  <url>
+    <loc>/alumni/</loc>
   </url>
   
   <url>
@@ -961,10 +960,6 @@
   
   <url>
     <loc>/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/see-all-of-the-alumnis-here/</loc>
   </url>
   
 </urlset>

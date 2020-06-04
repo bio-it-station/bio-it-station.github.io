@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>BITS</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 26 May 2020 16:18:33 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jun 2020 16:44:39 +0800</lastBuildDate>
     <image>
       <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_2.png</url>
       <title>BITS</title>
@@ -13,45 +13,30 @@
     </image>
     
     <item>
-      <title>Recruitment: Postdoc</title>
-      <link>/career/postdoc/</link>
-      <pubDate>Tue, 26 May 2020 16:18:33 +0800</pubDate>
-      <guid>/career/postdoc/</guid>
-      <description>&lt;h3 id=&#34;職稱&#34;&gt;職稱：&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;博士後研究員&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;應徵資格條件&#34;&gt;應徵資格/條件：&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;具 生物/生物資訊 相關研究經驗者&lt;/li&gt;
-&lt;li&gt;具有基礎程式設計經驗者&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;工作內容&#34;&gt;工作內容&lt;/h3&gt;
-&lt;p&gt;本研究室主要以資訊技術與統計方法分析生物實驗巨量數據資料，目前研究方向包括利用資料探勘與機器學習技術了解基因表現的調控，以及分析生物實驗的影像或生理反應的資料作為其他的預測應用。工作內容主要為協助計畫之執行與論文發表。&lt;/p&gt;
-&lt;h3 id=&#34;應徵方式&#34;&gt;應徵方式&lt;/h3&gt;
-&lt;p&gt;意者請準備履歷，並簡短說明研究方向及近期發表成果，Email 給蔡懷寬老師。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Recruitment: Research Assistant</title>
-      <link>/career/research-assistant/</link>
-      <pubDate>Fri, 22 May 2020 16:16:04 +0800</pubDate>
-      <guid>/career/research-assistant/</guid>
-      <description>&lt;h3 id=&#34;職稱&#34;&gt;職稱：&lt;/h3&gt;
+      <link>/career/research-assistant-2020/</link>
+      <pubDate>Wed, 03 Jun 2020 16:44:39 +0800</pubDate>
+      <guid>/career/research-assistant-2020/</guid>
+      <description>&lt;h3 id=&#34;職稱&#34;&gt;職稱&lt;/h3&gt;
+&lt;p&gt;碩士級研究助理&lt;/p&gt;
+&lt;h3 id=&#34;應徵資格條件&#34;&gt;應徵資格/條件&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;專任研究助理&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;應徵資格條件&#34;&gt;應徵資格/條件：&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;具程式撰寫能力 (任一程式語言皆可)&lt;/li&gt;
-&lt;li&gt;即將取得 (或已取得) 碩士學位&lt;/li&gt;
+&lt;li&gt;具資訊科學或生物相關背景&lt;/li&gt;
+&lt;li&gt;具有程式撰寫能力 (例如Python, R, Linux bash等任意程式語言)&lt;/li&gt;
+&lt;li&gt;即將取得 (或已取得) 碩士學位 (符合其他條件但只有學士者亦歡迎來信詢問)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;工作內容&#34;&gt;工作內容&lt;/h3&gt;
-&lt;p&gt;基因體上千分之一不到的序列差異如何使人與人如此不同? 完全相同的基因體又如何產生出多種變化的細胞型態? 我們找尋基因體上的蛛絲馬跡，嘗試了解生命體如何透過基因調控系統，成就多采多姿的生命萬象。如果你曾思考過類似的議題，或剛好你就是這方面的專家，竭誠歡迎加入我們!&lt;/p&gt;
-&lt;p&gt;本研究室主要以資訊技術與統計方法分析生物實驗巨量數據資料，目前研究方向包括利用資料探勘與機器學習技術了解基因表現的調控，以及分析生物實驗的影像或生理反應的資料作為其他的預測應用。希望能有機器學習相關知識或實作經驗的新成員加入團隊。&lt;/p&gt;
+&lt;p&gt;本實驗室利用資訊方法與統計方法分析巨量的生物資料，並與生物學家合作解開生物的奧祕。實驗室由中研院資訊所蔡懷寬研究員帶領，目前實驗室的研究方向著重在研究真核細胞的基因體，藉由整合多種體學資料 (Multi-omics)，探討基因體層級的基因調控系統。例如長非編碼RNA (lncRNAs) 透過形成RNA:DNA三鏈體的調控機制、染色體外環狀DNA (extrachromosomal circular DNA) 所扮演的調控角色及演化的重要性。研究方法包括利用資料探勘與機器學習來解析基因體的調控，並建立可預測的模型及其應用，歡迎對於生物有熱情或有相關分析背景的夥伴能夠加入團隊。&lt;/p&gt;
+&lt;h3 id=&#34;加分條件&#34;&gt;加分條件&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;對生物資訊有興趣並具有相關經驗&lt;/li&gt;
+&lt;li&gt;具有NGS定序分析經驗 (如RNA-seq, ATAC-seq等方法)&lt;/li&gt;
+&lt;li&gt;英文能力證書 (TOEIC、TOEFL等證書)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;待遇&#34;&gt;待遇&lt;/h3&gt;
+&lt;p&gt;依中央研究院/科技部標準支薪 (未來依表現可彈性敘薪)&lt;/p&gt;
 &lt;h3 id=&#34;應徵方式&#34;&gt;應徵方式&lt;/h3&gt;
-&lt;p&gt;意者請準備履歷，Email 給蔡懷寬老師。&lt;/p&gt;
+&lt;p&gt;意者準備履歷並簡述動機，Email給蔡懷寬研究員 &lt;a href=&#34;mailto:hktsai@iis.sinica.edu.tw&#34;&gt;hktsai@iis.sinica.edu.tw&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -648,9 +633,17 @@ Congratulation Dr. Su!&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>/hk_full_profile/</link>
+      <link>/admin_profile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/hk_full_profile/</guid>
+      <guid>/admin_profile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/alumni/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/alumni/</guid>
       <description></description>
     </item>
     
