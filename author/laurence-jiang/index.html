@@ -27,7 +27,7 @@
   
     
   
-  <meta name="description" content="Research Fellow/Professor">
+  <meta name="description" content="HK Tsai Lab of Bioinformatics, Institute of Information Science, Academia Sinica. Modified By: Zong-Yan Liu (Thomas)">
 
   
   <link rel="alternate" hreflang="en-us" href="/author/laurence-jiang/">
@@ -205,6 +205,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-33LQGZ2QH5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-33LQGZ2QH5', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -237,7 +275,7 @@
   <meta property="og:site_name" content="BITS">
   <meta property="og:url" content="/author/laurence-jiang/">
   <meta property="og:title" content="Laurence Jiang | BITS">
-  <meta property="og:description" content="Research Fellow/Professor"><meta property="og:image" content="/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="HK Tsai Lab of Bioinformatics, Institute of Information Science, Academia Sinica. Modified By: Zong-Yan Liu (Thomas)"><meta property="og:image" content="/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2021-11-01T00:00:00&#43;00:00">
