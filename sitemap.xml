@@ -97,6 +97,12 @@
   </url>
   
   <url>
+    <loc>/author/jia-hong-chen/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2022-01-17T15:16:42+08:00</lastmod>
     <changefreq>monthly</changefreq>
