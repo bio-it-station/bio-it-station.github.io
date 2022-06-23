@@ -5,12 +5,22 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 17 Jan 2022 15:16:42 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jun 2022 15:16:42 +0800</lastBuildDate>
     <image>
       <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Birthday Party</title>
+      <link>/post/2022-06-15-happy-birthday-party/</link>
+      <pubDate>Wed, 15 Jun 2022 15:16:42 +0800</pubDate>
+      <guid>/post/2022-06-15-happy-birthday-party/</guid>
+      <description>&lt;p&gt;This week marks Dr. Tsai&amp;rsquo;s birthday. Despite the fact that we are suffering from the pandemic, we are thrilled to be able to celebrate with our collaborator, Dr. Leu, and his lab members. May this day be filled with every unique enjoyment for you, and may the year offer all the wonderful things you are looking forward to.&lt;/p&gt;
+&lt;p&gt;Wishing you a beautiful day with good health and happiness forever. Happy Birthday!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Chinese New Year End Party</title>
