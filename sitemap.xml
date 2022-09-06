@@ -97,6 +97,12 @@
   </url>
   
   <url>
+    <loc>/author/kai-ze-zhu/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/author/yu-hsin-chen/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
