@@ -109,6 +109,12 @@
   </url>
   
   <url>
+    <loc>/author/ting-yu-yeh/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/author/yu-shu-qi/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
