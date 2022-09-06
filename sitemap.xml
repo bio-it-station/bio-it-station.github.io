@@ -115,6 +115,12 @@
   </url>
   
   <url>
+    <loc>/author/chia-hsuan-chou/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>/author/chien-cheng-su/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -122,6 +128,18 @@
   
   <url>
     <loc>/author/hsuan-yu-ko/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/author/ng-shang-kok/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>/author/yu-xun-tang/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
