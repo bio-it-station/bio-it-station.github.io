@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/author/tzuchieh-lin/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -23,12 +23,12 @@
     <priority>0.5</priority>
   </url><url>
     <loc>/author/cheng-hung-tsai/</loc>
-    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>/author/jia-hsin-huang/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -143,17 +143,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/author/cheng-hung-and-lin/</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/author/huai-kuang-and-huang/</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/author/jia-hsin/</loc>
+    <loc>/author/huai-kuang-tsai/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -168,17 +158,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/author/tsai/</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/author/tzu-chieh-and-chang/</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/author/yi-hsien-and-tsai/</loc>
+    <loc>/author/yi-hsien-chang/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -209,11 +189,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>/author/hsing-han-li/</loc>
-    <lastmod>2021-12-13T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/author/huai-kuang-tsai/</loc>
     <lastmod>2021-12-13T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -564,11 +539,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>/project/lncrna/</loc>
-    <lastmod>2020-05-21T21:39:26+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/author/yi-hsien-chang/</loc>
     <lastmod>2020-05-21T21:39:26+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
