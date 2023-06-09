@@ -5,12 +5,28 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Bioit Station (BITS) | Academia Sinica</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Aug 2022 12:00:42 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
       <title>Bioit Station (BITS) | Academia Sinica</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Differential Hsp90-dependent gene expression is strain-specific and common among yeast strains</title>
+      <link>/publication/hung-2023/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/hung-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Short human eccDNAs are predictable from sequences</title>
+      <link>/publication/kaili-2023/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/kaili-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Birthday Party</title>
@@ -20,6 +36,22 @@
       <description>&lt;p&gt;This week marks Dr. Tsai&amp;rsquo;s birthday. Despite the fact that we are suffering from the pandemic, we are thrilled to be able to celebrate with our collaborator, Dr. Leu, and his lab members. May this day be filled with every unique enjoyment for you, and may the year offer all the wonderful things you are looking forward to.&lt;/p&gt;
 &lt;p&gt;Wishing you a beautiful day with good health and happiness forever. Happy Birthday!&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>pubmedKB: an interactive web server for exploring biomedical entity relations in the biomedical literature</title>
+      <link>/publication/li-2022/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide identification of associations between enhancer and alternative splicing in human and mouse</title>
+      <link>/publication/shiau-2022/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/shiau-2022/</guid>
+      <description></description>
     </item>
     
     <item>

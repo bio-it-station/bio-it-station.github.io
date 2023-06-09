@@ -5,12 +5,20 @@
     <link>/author/yu-ting-liu/</link>
       <atom:link href="/author/yu-ting-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yu-Ting Liu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
       <title>Yu-Ting Liu</title>
       <link>/author/yu-ting-liu/</link>
     </image>
+    
+    <item>
+      <title>Genome-wide identification of associations between enhancer and alternative splicing in human and mouse</title>
+      <link>/publication/shiau-2022/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/shiau-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>NK cell receptor and ligand composition influences the clearance of SARS-CoV-2</title>
