@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francis C Weng | Bioit Station (BITS) | Academia Sinica</title>
+    <link>/author/francis-c-weng/</link>
+      <atom:link href="/author/francis-c-weng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Francis C Weng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
+      <title>Francis C Weng</title>
+      <link>/author/francis-c-weng/</link>
+    </image>
+    
+    <item>
+      <title>MetaABC—an integrated metagenomics platform for data adjustment, binning and clustering</title>
+      <link>/publication/su-2011/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/su-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reanalyze unassigned reads in Sanger based metagenomic data using conserved gene  adjacency.</title>
+      <link>/publication/weng-2010/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/weng-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

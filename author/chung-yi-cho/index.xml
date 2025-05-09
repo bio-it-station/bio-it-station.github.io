@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chung-Yi Cho | Bioit Station (BITS) | Academia Sinica</title>
+    <link>/author/chung-yi-cho/</link>
+      <atom:link href="/author/chung-yi-cho/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chung-Yi Cho</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
+      <title>Chung-Yi Cho</title>
+      <link>/author/chung-yi-cho/</link>
+    </image>
+    
+    <item>
+      <title>Impact of DNA-binding position variants on yeast gene expression</title>
+      <link>/publication/swamy-2009/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/swamy-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roles of Trans and Cis Variation in Yeast Intraspecies Evolution of Gene Expression</title>
+      <link>/publication/sung-2009/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/sung-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

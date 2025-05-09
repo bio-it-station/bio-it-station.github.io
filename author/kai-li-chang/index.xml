@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kai-Li Chang | Bioit Station (BITS) | Academia Sinica</title>
+    <link>/author/kai-li-chang/</link>
+      <atom:link href="/author/kai-li-chang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kai-Li Chang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
+      <title>Kai-Li Chang</title>
+      <link>/author/kai-li-chang/</link>
+    </image>
+    
+    <item>
+      <title>Short human eccDNAs are predictable from sequences</title>
+      <link>/publication/kaili-2023/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/kaili-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome Our New Research Assistants</title>
+      <link>/post/2021-08-01-welcome-ra-join/</link>
+      <pubDate>Sun, 01 Aug 2021 15:16:42 +0800</pubDate>
+      <guid>/post/2021-08-01-welcome-ra-join/</guid>
+      <description>&lt;p&gt;Under COVID-19 pandemic, we still have three research assistants joining our laboratory!&lt;/p&gt;
+&lt;p&gt;Welcome Zong-Yan Liu (Thomas), Kai-Li Chang, Ru-Yin Jian!&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s start dreaming big and making our dreams come true this year!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

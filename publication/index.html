@@ -1,0 +1,4570 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.8.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Huai-Kuang Tsai">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="HK Tsai Lab of Bioinformatics, Institute of Information Science, Academia Sinica. Bioinformatics is an interdisciplinary field that combines computer science and biology to analyze biological data. Our research interests are functional genomics and pest bioinformatics. We aim to resolve the dilemma facing biologists today. Modified By: Zong-Yan Liu (Thomas)">
+
+  
+  <link rel="alternate" hreflang="en-us" href="/publication/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="#2962ff">
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/github.min.css" crossorigin="anonymous" title="hl-light">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+    
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/5.1.2/lazysizes.min.js" integrity="sha256-Md1qLToewPeKjfAHU1zyPwOutccPAm5tahnaw7Osw0A=" crossorigin="anonymous" async></script>
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+
+      
+      
+
+      
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700%7CRoboto:400,400italic,700%7CRoboto+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-33LQGZ2QH5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-33LQGZ2QH5', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+
+  
+  
+
+  
+  <link rel="alternate" href="/publication/index.xml" type="application/rss+xml" title="Bioit Station (BITS) | Academia Sinica">
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_32x32_fill_lanczos_center_3.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_192x192_fill_lanczos_center_3.png">
+
+  <link rel="canonical" href="/publication/">
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="og:site_name" content="Bioit Station (BITS) | Academia Sinica">
+  <meta property="og:url" content="/publication/">
+  <meta property="og:title" content="Publications | Bioit Station (BITS) | Academia Sinica">
+  <meta property="og:description" content="HK Tsai Lab of Bioinformatics, Institute of Information Science, Academia Sinica. Bioinformatics is an interdisciplinary field that combines computer science and biology to analyze biological data. Our research interests are functional genomics and pest bioinformatics. We aim to resolve the dilemma facing biologists today. Modified By: Zong-Yan Liu (Thomas)"><meta property="og:image" content="/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png">
+  <meta property="twitter:image" content="/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
+  
+    <meta property="og:updated_time" content="2023-05-19T00:00:00&#43;00:00">
+  
+
+  
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Publications | Bioit Station (BITS) | Academia Sinica</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Bioit Station (BITS) | Academia Sinica</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Bioit Station (BITS) | Academia Sinica</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#slider"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#people"><span>Teams</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/jobs/"><span>Jobs</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link js-theme-selector" data-toggle="dropdown" aria-haspopup="true">
+          <i class="fas fa-palette" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+<div class="universal-wrapper pt-3">
+  <h1>Publications</h1>
+
+  
+
+  
+</div>
+
+
+
+<div class="universal-wrapper">
+  <div class="row">
+    <div class="col-lg-12">
+
+      
+
+      
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
+
+      <div class="form-row mb-4">
+        <div class="col-auto">
+          <input type="search" class="filter-search" placeholder="Search..." autocapitalize="off"
+          autocomplete="off" autocorrect="off" role="textbox" spellcheck="false">
+        </div>
+        <div class="col-auto">
+          <select class="pub-filters pubtype-select form-control form-control-sm" data-filter-group="pubtype">
+            <option value="*">Type</option>
+            
+            
+            <option value=".pubtype-1">
+              Conference paper
+            </option>
+            
+            <option value=".pubtype-2">
+              Journal article
+            </option>
+            
+          </select>
+        </div>
+        <div class="col-auto">
+          <select class="pub-filters form-control form-control-sm" data-filter-group="year">
+            <option value="*">Date</option>
+            
+            
+            
+            <option value=".year-2023">
+              2023
+            </option>
+            
+            <option value=".year-2022">
+              2022
+            </option>
+            
+            <option value=".year-2021">
+              2021
+            </option>
+            
+            <option value=".year-2020">
+              2020
+            </option>
+            
+            <option value=".year-2019">
+              2019
+            </option>
+            
+            <option value=".year-2018">
+              2018
+            </option>
+            
+            <option value=".year-2017">
+              2017
+            </option>
+            
+            <option value=".year-2015">
+              2015
+            </option>
+            
+            <option value=".year-2013">
+              2013
+            </option>
+            
+            <option value=".year-2012">
+              2012
+            </option>
+            
+            <option value=".year-2011">
+              2011
+            </option>
+            
+            <option value=".year-2010">
+              2010
+            </option>
+            
+            <option value=".year-2009">
+              2009
+            </option>
+            
+            <option value=".year-2008">
+              2008
+            </option>
+            
+            <option value=".year-2007">
+              2007
+            </option>
+            
+            <option value=".year-2006">
+              2006
+            </option>
+            
+            <option value=".year-2005">
+              2005
+            </option>
+            
+            <option value=".year-2004">
+              2004
+            </option>
+            
+            <option value=".year-2003">
+              2003
+            </option>
+            
+            <option value=".year-2002">
+              2002
+            </option>
+            
+            
+          </select>
+        </div>
+      </div>
+
+      <div id="container-publications">
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2023">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Po-Hsiang Hung</span>, <span>Chia-Wei Liao</span>, <span>Fu-Hsuan Ko</span>, <span>Huai-Kuang Tsai</span>, <span>Jun-Yi Leu</span>
+  </span>
+  (2023).
+  <a href="/publication/hung-2023/">Differential Hsp90-dependent gene expression is strain-specific and common among yeast strains</a>.
+  <em>Iscience</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.sciencedirect.com/science/article/pii/S2589004223007125/pdfft?md5=52f507d4dc7aa727de5c612d37081d12&amp;pid=1-s2.0-S2589004223007125-main.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/hung-2023/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.isci.2023.106635" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2023">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Kai-Li Chang</span>, <span>Jia-Hong Chen</span>, <span>Tzu-Chieh Lin</span>, <span>Jun-Yi Leu</span>, <span>Cheng-Fu Kao</span>, <span>Jin Yung Wong</span>, <span>Huai-Kuang Tsai</span>
+  </span>
+  (2023).
+  <a href="/publication/kaili-2023/">Short human eccDNAs are predictable from sequences</a>.
+  <em>Briefings in Bioinformatics</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://academic.oup.com/bib/article-pdf/24/3/bbad147/50410894/bbad147.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/kaili-2023/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/bib/bbad147" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2022">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Peng-Hsuan Li</span>, <span>Ting-Fu Chen</span>, <span>Jheng-Ying Yu</span>, <span>Shang-Hung Shih</span>, <span>Chan-Hung Su</span>, <span>Yin-Hung Lin</span>, <span>Huai-Kuang Tsai</span>, <span>Hsueh-Fen Juan</span>, <span>Chien-Yu Chen</span>, <span>Jia-Hsin Huang</span>
+  </span>
+  (2022).
+  <a href="/publication/li-2022/">pubmedKB: an interactive web server for exploring biomedical entity relations in the biomedical literature</a>.
+  <em>Nucleic Acids Research</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://academic.oup.com/nar/article-pdf/50/W1/W616/44378353/gkac310.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/li-2022/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/nar/gkac310" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2022">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Cheng-Kai Shiau</span>, <span>Jia-Hsin Huang</span>, <span>Yu-Ting Liu</span>, <span>Huai-Kuang Tsai</span>
+  </span>
+  (2022).
+  <a href="/publication/shiau-2022/">Genome-wide identification of associations between enhancer and alternative splicing in human and mouse</a>.
+  <em>BMC genomics</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://bmcgenomics.biomedcentral.com/counter/pdf/10.1186/s12864-022-08537-1.pdf?pdf=button%20sticky" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/shiau-2022/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1186/s12864-022-08537-1" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2022">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Cheng-Hung Tsai</span>, <span>Tzu-Chieh Lin</span>, <span>Yi-Hsien Chang</span>, <span>Huai-Kuang Tsai</span>, <span>Jia-Hsin Huang</span>
+  </span>
+  (2022).
+  <a href="/publication/tsai-2022/">Identification and comparative analysis of long non-coding RNAs in the brain of fire ant queens in two different reproductive states</a>.
+  <em>BMC genomics</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://bmcgenomics.biomedcentral.com/counter/pdf/10.1186/s12864-022-08539-z.pdf?pdf=button%20sticky" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/tsai-2022/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1186/s12864-022-08539-z" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2021">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Wei-Liang Liu</span>, <span>Chia-Wei Hsu</span>, <span>Shih-Peng Chan</span>, <span>Pei-Shi Yen</span>, <span>Matthew P. Su</span>, <span>Jian-Chiuan Li</span>, <span>Hsing-Han Li</span>, <span>Lie Cheng</span>, <span>Cheng-Kang Tang</span>, <span>Shih-Hsun Ko</span>, <span>Huai-Kuang Tsai</span>, <span>Zing Tsung-Yeh Tsai</span>, <span>Omar S. Akbari</span>, <span>Anna-Bella Failloux</span>, <span>Chun-Hong Chen</span>
+  </span>
+  (2021).
+  <a href="/publication/liu-2021/">Transgenic refractory Aedes aegypti lines are resistant to multiple serotypes of dengue virus.</a>.
+  <em>Scientific Reports</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/liu-2021/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1038/s41598-022-05054-9" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2021">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Wan-Chen Hsieh</span>, <span>En-Yu Lai</span>, <span>Yu-Ting Liu</span>, <span>Yi-Fu Wang</span>, <span>Yi-Shiuan Tzeng</span>, <span>Lu Cui</span>, <span>Yun-Ju Lai</span>, <span>Hsiang-Chi Huang</span>, <span>Jia-Hsin Huang</span>, <span>Hung-Chih Ni</span>, <span>Dong-Yan Tsai</span>, <span>Jian-Jong Liang</span>, <span>Chun-Che Liao</span>, <span>Ya-Ting Lu</span>, <span>Laurence Jiang</span>, <span>Ming-Tsan Liu</span>, <span>Jann-Tay Wang</span>, <span>Sui-Yuan Chang</span>, <span>Chung-Yu Chen</span>, <span>Hsing-Chen Tsai</span>, <span>Yao-Ming Chang</span>, <span>Gerlinde Wernig</span>, <span>Chia-Wei Li</span>, <span>Kuo-I Lin</span>, <span>Yi-Ling Lin</span>, <span>Huai-Kuang Tsai</span>, <span>Yen-Tsung Huang</span>, <span>Shih-Yu Chen</span>
+  </span>
+  (2021).
+  <a href="/publication/hsieh-2021/">NK cell receptor and ligand composition influences the clearance of SARS-CoV-2</a>.
+  <em>The Journal of Clinical Investigation</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.jci.org/articles/view/146408" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/hsieh-2021/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1172/JCI146408" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2021">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Ko-Han Lee</span>, <span>Yu-Chuan Chang</span>, <span>Ting-Fu Chen</span>, <span>Hsueh-Fen Juan</span>, <span>Huai-Kuang Tsai</span>, <span>Chien-Yu Chen</span>
+  </span>
+  (2021).
+  <a href="/publication/lee-2021/">Connecting MHC-I-binding motifs with HLA alleles via deep learning.</a>.
+  <em>Communications Biology</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/lee-2021/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1038/s42003-021-02716-8" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2021">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Jia-Hsin Huang</span>, <span>Yu-Ting Liu</span>, <span>Hung Chih Ni</span>, <span>Bo-Ye Chen</span>, <span>Shih-Ying Huang</span>, <span>Huai-Kuang Tsai</span>, <span>Hou-Feng Li</span>
+  </span>
+  (2021).
+  <a href="/publication/huang_1-2021/">Termite Pest Identification Method Based on Deep Convolution Neural Networks.</a>.
+  <em>Journal of Economic Entomology</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/huang_1-2021/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/jee/toab162" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2021">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Jia-Hsin Huang</span>, <span>You-Rou Liao</span>, <span>Tzu-Chieh Lin</span>, <span>Cheng-Hung Tsai</span>, <span>Wei-Yun Lai</span>, <span>Yang-Kai Chou</span>, <span>Jun-Yi Leu</span>, <span>Huai-Kuang Tsai</span>, <span>Cheng-Fu Kao</span>
+  </span>
+  (2021).
+  <a href="/publication/huang-2021/">iTARGEX analysis of yeast deletome reveals novel regulators of transcriptional buffering in S phase and protein turnover.</a>.
+  <em>Nucleic Acids Research</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/huang-2021/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/nar/gkab555" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2021">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Meng-Jen Wu</span>, <span>Chih-Jung Chen</span>, <span>Ting-Yu Lin</span>, <span>Ying-Yuan Liu</span>, <span>Lin-Lu Tseng</span>, <span>Mei-Ling Cheng</span>, <span>Chih-Pin Chuu</span>, <span>Huai-Kuang Tsai</span>, <span>Wen-Ling Kuo</span>, <span>Hsing-Jien Kung</span>, <span>Wen-Ching Wang</span>
+  </span>
+  (2021).
+  <a href="/publication/wu-2021/">Targeting KDM4B that coactivates c-Myc-regulated metabolism to suppress tumor growth in castration-resistant prostate cancer.</a>.
+  <em>Theranostics</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/wu-2021/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.7150/thno.58729" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2020">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Sufeng Chiang</span>, <span>Hisaaki Shinohara</span>, <span>Jia Hsin Huang</span>, <span>Huai Kuang Tsai</span>, <span>Mariko Okada</span>
+  </span>
+  (2020).
+  <a href="/publication/chiang-2020/">Inferring the transcriptional regulatory mechanism of signal-dependent gene expression via an integrative computational approach</a>.
+  <em>FEBS Letters</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/chiang-2020/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1002/1873-3468.13757" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2020">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Shin Yen Chong</span>, <span>Sam Cutler</span>, <span>Jing-Jer Lin</span>, <span>Cheng-Hung Tsai</span>, <span>Huai-Kuang Tsai</span>, <span>Sue Biggins</span>, <span>Toshio Tsukiyama</span>, <span>Yi-Chen Lo</span>, <span>Cheng-Fu Kao</span>
+  </span>
+  (2020).
+  <a href="/publication/chong-2020/">H3K4 methylation at active genes mitigates transcription-replication conflicts during replication stress.</a>.
+  <em>Nature communications</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/chong-2020/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1038/s41467-020-14595-4" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2019">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Chih-Yi Gabriela Lin</span>, <span>Ju-Lan Chao</span>, <span>Huai-Kuang Tsai</span>, <span>Douglas Chalker</span>, <span>Meng-Chao Yao</span>
+  </span>
+  (2019).
+  <a href="/publication/lin-2019/">Setting boundaries for genome-wide heterochromatic DNA deletions through flanking inverted repeats in Tetrahymena thermophile</a>.
+  <em>Nucleic Acids Research</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/nar/gkz481" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/lin-2019/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/nar/gkz481" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2018">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Cheng-Kai Shiau</span>, <span>Jia-Hsin Huang</span>, <span>Huai-Kuang Tsai</span>
+  </span>
+  (2018).
+  <a href="/publication/shiau-2018/">CATANA: a tool for generating comprehensive annotations of alternative transcript events</a>.
+  <em>Bioinformatics</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/bioinformatics/bty795" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/shiau-2018/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/bioinformatics/bty795" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2018">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Jia-Hsin Huang</span>, <span>Ryan Shun-Yuen Kwan</span>, <span>Zing Tsung-Yeh Tsai</span>, <span>Tzu-Chieh Lin</span>, <span>Huai-Kuang Tsai</span>
+  </span>
+  (2018).
+  <a href="/publication/10-3389-fgene-2018-00571/">Borders of Cis-Regulatory DNA Sequences Preferentially Harbor the Divergent Transcription Factor Binding Motifs in the Human Genome</a>.
+  <em>Frontiers in Genetics</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.frontiersin.org/article/10.3389/fgene.2018.00571" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/10-3389-fgene-2018-00571/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.3389/fgene.2018.00571" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2017">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>I-Man Ng</span>, <span>Jia-Hsin Huang</span>, <span>Shang-Chi Tsai</span>, <span>Huai-Kuang Tsai</span>
+  </span>
+  (2017).
+  <a href="/publication/ng-2017/">IsoPlot: a database for comparison of mRNA isoforms in fruit fly and mosquitoes.</a>.
+  <em>Database : the journal of biological databases and curation</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/ng-2017/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/database/bax069" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2017">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Wan Hsin Liu</span>, <span>Zing Tsung Yeh Tsai</span>, <span>Huai-Kuang Kuang Tsai</span>, <span>I-Man Ng</span>, <span>Jia-Hsin Huang</span>, <span>Shang-Chi Tsai</span>, <span>Huai-Kuang Kuang Tsai</span>
+  </span>
+  (2017).
+  <a href="/publication/liu-2017/">Comparative genomic analyses highlight the contribution of pseudogenized protein-coding genes to human lincRNAs</a>.
+  <em>BMC Genomics</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1186/s12864-017-4156-x" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/liu-2017/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1186/s12864-017-4156-x" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2015">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Chiu-Lien Hung</span>, <span>Hsin-Hung Cheng</span>, <span>Wan-Chen Hsieh</span>, <span>Zing Tsung-Yeh Tsai</span>, <span>Huai-Kuang Tsai</span>, <span>Chia-Han Chu</span>, <span>Wen-Ping Hsieh</span>, <span>Yi-Fan Chen</span>, <span>Yu Tsou</span>, <span>Chih-Ho Lai</span>, <span>Wen-Ching Wang</span>
+  </span>
+  (2015).
+  <a href="/publication/hung-2015/">The CrdRS two-component system in Helicobacter pylori responds to nitrosative stress.</a>.
+  <em>Molecular microbiology</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/hung-2015/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/mmi.13089" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2015">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Jen-Hao Cheng</span>, <span>David Zhi-Chao Pan</span>, <span>Zing Tsung-Yeh Tsai</span>, <span>Huai-Kuang Tsai</span>
+  </span>
+  (2015).
+  <a href="/publication/cheng-2015/">Genome-wide analysis of enhancer RNA in gene regulation across 12 mouse tissues</a>.
+  <em>Scientific Reports</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1038/srep12648" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/cheng-2015/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1038/srep12648" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2015">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Zing Tsung-Yeh Tsai</span>, <span>Shin-Han Shiu</span>, <span>Huai-Kuang Tsai</span>
+  </span>
+  (2015).
+  <a href="/publication/10-1371-journal-pcbi-1004418/">Contribution of Sequence Motif, Chromatin State, and DNA Structure Features to Predictive Models of Transcription Factor Binding in Yeast</a>.
+  <em>PLOS Computational Biology</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1371/journal.pcbi.1004418" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/10-1371-journal-pcbi-1004418/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1371/journal.pcbi.1004418" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2013">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Zing Tsung-Yeh Tsai</span>, <span>Wen-Yi Chu</span>, <span>Jen-Hao Cheng</span>, <span>Huai-Kuang Tsai</span>
+  </span>
+  (2013).
+  <a href="/publication/tsai-2013/">Associations between intronic non-B DNA structures and exon skipping</a>.
+  <em>Nucleic Acids Research</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/nar/gkt939" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/tsai-2013/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/nar/gkt939" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2013">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Yi-Ching Chen</span>, <span>Jen-Hao Cheng</span>, <span>Zing Tsung-Yeh Tsai</span>, <span>Huai-Kuang Tsai</span>, <span>Trees-Juen Chuang</span>
+  </span>
+  (2013).
+  <a href="/publication/chen-2013/">The impact of trans-regulation on the evolutionary rates of metazoan proteins.</a>.
+  <em>Nucleic acids research</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/chen-2013/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/nar/gkt349" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2012">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Chien-Hao Su</span>, <span>Tse-Yi Wang</span>, <span>Ming-Tsung Hsu</span>, <span>Francis Cheng-Hsuan Weng</span>, <span>Cheng-Yan Kao</span>, <span>Daryi Wang</span>, <span>Huai-Kuang Tsai</span>
+  </span>
+  (2012).
+  <a href="/publication/10-1109-tcbb-2011-111/">The Impact of Normalization and Phylogenetic Information on Estimating the Distance for Metagenomes</a>.
+  <em>IEEE/ACM Trans. Comput. Biol. Bioinformatics</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/TCBB.2011.111" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/10-1109-tcbb-2011-111/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/TCBB.2011.111" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2012">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Zing Tsung-Yeh Tsai</span>, <span>Huai-Kuang Tsai</span>, <span>Jen-Hao Cheng</span>, <span>Chih-Hsu Lin</span>, <span>Yuan-Fan Tsai</span>, <span>Daryi Wang</span>
+  </span>
+  (2012).
+  <a href="/publication/tsai-2012/">Evolution of cis-regulatory elements in yeast de novo and duplicated new genes</a>.
+  <em>BMC Genomics</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1186/1471-2164-13-717" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/tsai-2012/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1186/1471-2164-13-717" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2012">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Mei-Ju May Chen</span>, <span>Lih-Ching Chou</span>, <span>Tsung-Ting Hsieh</span>, <span>Ding-Dar Lee</span>, <span>Kai-Wei Liu</span>, <span>Chi-Yuan Yu</span>, <span>Yen-Jen Oyang</span>, <span>Huai-Kuang Tsai</span>, <span>Chien-Yu Chen</span>
+  </span>
+  (2012).
+  <a href="/publication/chen-2012/">De novo motif discovery facilitates identification of interactions between transcription factors in Saccharomyces cerevisiae</a>.
+  <em>Bioinformatics</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/bioinformatics/bts002" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/chen-2012/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/bioinformatics/bts002" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2012">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Sufeng Chiang</span>, <span>Krishna B S Swamy</span>, <span>Ting-Wei Hsu</span>, <span>Zing Tsung-Yeh Tsai</span>, <span>Henry Horng-Shing Lu</span>, <span>Daryi Wang</span>, <span>Huai-Kuang Tsai</span>
+  </span>
+  (2012).
+  <a href="/publication/chiang-2012/">Analysis of the association between transcription factor binding site variants and distinct accompanying regulatory motifs in yeast.</a>.
+  <em>Gene</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/chiang-2012/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.gene.2011.08.028" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2011">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Tse-Yi Wang</span>, <span>Chien-Hao Su</span>, <span>Huai-Kuang Tsai</span>
+  </span>
+  (2011).
+  <a href="/publication/wang-2011/">MetaRank: a rank conversion scheme for comparative analysis of microbial community compositions</a>.
+  <em>Bioinformatics</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/bioinformatics/btr583" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/wang-2011/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/bioinformatics/btr583" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2011">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Chien-Hao Su</span>, <span>Ming-Tsung Hsu</span>, <span>Tse−Yi Wang</span>, <span>Sufeng Chiang</span>, <span>Jen-Hao Cheng</span>, <span>Francis C Weng</span>, <span>Cheng−Yan Kao</span>, <span>Daryi Wang</span>, <span>Huai-Kuang Tsai</span>
+  </span>
+  (2011).
+  <a href="/publication/su-2011/">MetaABC—an integrated metagenomics platform for data adjustment, binning and clustering</a>.
+  <em>Bioinformatics</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/bioinformatics/btr376" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/su-2011/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/bioinformatics/btr376" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2011">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Krishna B S Swamy</span>, <span>Wen-Yi Chu</span>, <span>Chun-Yi Wang</span>, <span>Huai-Kuang Tsai</span>, <span>Daryi Wang</span>
+  </span>
+  (2011).
+  <a href="/publication/swamy-2011/">Evidence of association between Nucleosome Occupancy and the Evolution of Transcription Factor Binding Sites in Yeast</a>.
+  <em>BMC Evolutionary Biology</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1186/1471-2148-11-150" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/swamy-2011/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1186/1471-2148-11-150" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2010">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Chien-Hao Su</span>, <span>Ching-Hua Shih</span>, <span>Tien-Hsien Chang</span>, <span>Huai-Kuang Tsai</span>
+  </span>
+  (2010).
+  <a href="/publication/su-2010/">Genome-wide analysis of the cis-regulatory modules of divergent gene pairs in yeast.</a>.
+  <em>Genomics</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/su-2010/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1016/j.ygeno.2010.08.008" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2010">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Francis C Weng</span>, <span>Chien-Hao Su</span>, <span>Ming-Tsung Hsu</span>, <span>Tse-Yi Wang</span>, <span>Huai-Kuang Tsai</span>, <span>Daryi Wang</span>
+  </span>
+  (2010).
+  <a href="/publication/weng-2010/">Reanalyze unassigned reads in Sanger based metagenomic data using conserved gene  adjacency.</a>.
+  <em>BMC bioinformatics</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/weng-2010/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1186/1471-2105-11-565" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2009">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Krishna B S Swamy</span>, <span>Chung-Yi Cho</span>, <span>Sufeng Chiang</span>, <span>Zing Tsung-Yeh Tsai</span>, <span>Huai-Kuang Tsai</span>
+  </span>
+  (2009).
+  <a href="/publication/swamy-2009/">Impact of DNA-binding position variants on yeast gene expression</a>.
+  <em>Nucleic Acids Research</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/nar/gkp743" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/swamy-2009/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/nar/gkp743" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2009">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Huai-Kuang Tsai</span>, <span>Pei-Ying Huang</span>, <span>Cheng-Yan Kao</span>, <span>Daryi Wang</span>
+  </span>
+  (2009).
+  <a href="/publication/tsai-2009/">Co-expression of neighboring genes in the zebrafish (Danio rerio) genome.</a>.
+  <em>International journal of molecular sciences</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/tsai-2009/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.3390/ijms10083658" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2009">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Huang-Mo Sung</span>, <span>Tzi-Yuan Wang</span>, <span>Daryi Wang</span>, <span>Yu-Shan Huang</span>, <span>Jen-Pey Wu</span>, <span>Huai-Kuang Tsai</span>, <span>Jengnan Tzeng</span>, <span>Chih-Jen Huang</span>, <span>Yi-Chen Lee</span>, <span>Peggy Yang</span>, <span>Joyce Hsu</span>, <span>Tiffany Chang</span>, <span>Chung-Yi Cho</span>, <span>Li-Chuan Weng</span>, <span>Tso-Ching Lee</span>, <span>Tien-Hsien Chang</span>, <span>Wen-Hsiung Li</span>, <span>Ming-Che Shih</span>
+  </span>
+  (2009).
+  <a href="/publication/sung-2009/">Roles of Trans and Cis Variation in Yeast Intraspecies Evolution of Gene Expression</a>.
+  <em>Molecular Biology and Evolution</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/molbev/msp171" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/sung-2009/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/molbev/msp171" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2008">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Yao-Lin Chang</span>, <span>Huai-Kuang Tsai</span>, <span>Cheng-Yan Kao</span>, <span>Yung-Chian Chen</span>, <span>Yuh-Jyh Hu</span>, <span>Jinn-Moon Yang</span>
+  </span>
+  (2008).
+  <a href="/publication/chang-2008/">Evolutionary conservation of DNA-contact residues in DNA-binding domains.</a>.
+  <em>BMC bioinformatics</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/chang-2008/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1186/1471-2105-9-S6-S3" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2008">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Chien-Yu Chen</span>, <span>Huai-Kuang Tsai</span>, <span>Chen-Ming Hsu</span>, <span>Mei-Ju May Chen</span>, <span>Hao-Geng Hung</span>, <span>Grace Tzu-Wei Huang</span>, <span>Wen-Hsiung Li</span>
+  </span>
+  (2008).
+  <a href="/publication/chen-2008/">Discovering gapped binding sites of yeast transcription factors.</a>.
+  <em>Proceedings of the National Academy of Sciences of the United States of America</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/chen-2008/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1073/pnas.0712188105" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2007">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Huai-Kuang Tsai</span>, <span>Cindy P C Su</span>, <span>Mei-Yeh J Lu</span>, <span>Ching-Hua Shih</span>, <span>Daryi Wang</span>
+  </span>
+  (2007).
+  <a href="/publication/tsai-2007/">Co-expression of adjacent genes in yeast cannot be simply attributed to shared regulatory system.</a>.
+  <em>BMC genomics</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/tsai-2007/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1186/1471-2164-8-352" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2007">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Huai-Kuang Tsai</span>, <span>Meng-Yuan Chou</span>, <span>Ching-Hua Shih</span>, <span>Grace Tzu-Wei Huang</span>, <span>Tien-Hsien Chang</span>, <span>Wen-Hsiung Li</span>
+  </span>
+  (2007).
+  <a href="/publication/tsai-2007-a/">MYBS: a comprehensive web server for mining transcription factor binding sites in yeast.</a>.
+  <em>Nucleic acids research</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/tsai-2007-a/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/nar/gkm379" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2006">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Huai-Kuang Tsai</span>, <span>Grace Tzu-Wei Huang</span>, <span>Meng-Yuan Chou</span>, <span>Henry Horng-Shing Lu</span>, <span>Wen-Hsiung Li</span>
+  </span>
+  (2006).
+  <a href="/publication/tsai-2006/">Method for identifying transcription factor binding sites in yeast.</a>.
+  <em>Bioinformatics (Oxford, England)</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/tsai-2006/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/bioinformatics/btl160" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2005">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Huai-Kuang Tsai</span>, <span>Henry Horng-Shing Lu</span>, <span>Wen-Hsiung Li</span>
+  </span>
+  (2005).
+  <a href="/publication/tsai-2005/">Statistical methods for identifying yeast cell cycle transcription factors.</a>.
+  <em>Proceedings of the National Academy of Sciences of the United States of America</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/tsai-2005/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1073/pnas.0505874102" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2005">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>East Zhao</span>, <span>Hsuan-Liang Liu</span>, <span>Chi-Hung Tsai</span>, <span>Huai-Kuang Tsai</span>, <span>Chen-hsiung Chan</span>, <span>Cheng-Yan Kao</span>
+  </span>
+  (2005).
+  <a href="/publication/zhao-2005/">Cysteine separations profiles on protein sequences infer disulfide connectivity.</a>.
+  <em>Bioinformatics (Oxford, England)</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/zhao-2005/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1093/bioinformatics/bti179" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2004">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Huai-Kuang Tsai</span>, <span>Jinn-Moon Yang</span>, <span>Yuan-Fang Tsai</span>, <span>Cheng-Yan Kao</span>
+  </span>
+  (2004).
+  <a href="/publication/1315755/">An evolutionary algorithm for large traveling salesman problems</a>.
+  <em>IEEE Transactions on Systems, Man, and Cybernetics, Part B (Cybernetics)</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/1315755/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/TSMCB.2004.828283" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2004">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Huai-Kuang Tsai</span>, <span>Jinn-Moon Yang</span>, <span>Yuan-Fang Tsai</span>, <span>Cheng-Yan Kao</span>
+  </span>
+  (2004).
+  <a href="/publication/tsai-2004/">An evolutionary approach for gene expression patterns.</a>.
+  <em>IEEE transactions on information technology in biomedicine : a publication of the IEEE Engineering in Medicine and Biology Society</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/tsai-2004/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1109/titb.2004.826713" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2004">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>H.-K. Tsai</span>, <span>J.-M. Yang</span>, <span>Y.-F. Tsai</span>, <span>C.-Y. Kao</span>
+  </span>
+  (2004).
+  <a href="/publication/tsai-2004-a/">Some issues of designing genetic algorithms for traveling salesman problems</a>.
+  <em>Soft Computing</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/s00500-003-0317-8" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/tsai-2004-a/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/s00500-003-0317-8" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-1 year-2004">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Yu Cheng Huang</span>, <span>Han Yu Chuang</span>, <span>Huai Kuang Tsai</span>, <span>Chun Fan Chang</span>, <span>Cheng Yan Kao</span>
+  </span>
+  (2004).
+  <a href="/publication/inproceedings/">Designing multiple-use primer set for multiplex PCR by using compact GAs</a>.
+  <em>Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/inproceedings/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1007/978-3-540-30217-9_52" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2003">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Huai Kuang Tsai</span>, <span>Jinn Moon Yang</span>, <span>Yuan Fang Tsai</span>, <span>Cheng Yan Kao</span>
+  </span>
+  (2003).
+  <a href="/publication/article/">Heterogeneous selection genetic algorithms for traveling salesman problems</a>.
+  <em>Engineering Optimization</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/article/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1080/0305215031000109622" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2002">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  
+  <span>Jinn-Moon Yang</span>, <span>Chi-Hung Tsai</span>, <span>Ming-Jing Hwang</span>, <span>Huai-Kuang Tsai</span>, <span>Jenn-Kang Hwang</span>, <span>Cheng-Yan Kao</span>
+  </span>
+  (2002).
+  <a href="/publication/yang-2002/">GEM: a Gaussian Evolutionary Method for predicting protein side-chain conformations.</a>.
+  <em>Protein science : a publication of the Protein Society</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 btn-sm js-cite-modal"
+        data-filename="/publication/yang-2002/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1110/ps.4940102" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+      </div>
+
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/highlight.min.js" integrity="sha256-eOgo0OtLL4cdq7RdwRUiGKLX9XsIJ7nGhWEKbohmVAQ=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>const code_highlighting = true;</script>
+    
+
+    
+    
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.cd45a9c0bbdd3dfb1c126917c601c9f2.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer ">
+  
+
+  <p class="powered-by">
+    
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

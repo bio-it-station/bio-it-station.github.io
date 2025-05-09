@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yu-Ting Liu | Bioit Station (BITS) | Academia Sinica</title>
+    <link>/author/yu-ting-liu/</link>
+      <atom:link href="/author/yu-ting-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yu-Ting Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
+      <title>Yu-Ting Liu</title>
+      <link>/author/yu-ting-liu/</link>
+    </image>
+    
+    <item>
+      <title>Genome-wide identification of associations between enhancer and alternative splicing in human and mouse</title>
+      <link>/publication/shiau-2022/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/shiau-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NK cell receptor and ligand composition influences the clearance of SARS-CoV-2</title>
+      <link>/publication/hsieh-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/hsieh-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Termite Pest Identification Method Based on Deep Convolution Neural Networks.</title>
+      <link>/publication/huang_1-2021/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/huang_1-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Brand New BITS!!</title>
+      <link>/post/2020-05-21-new_website/</link>
+      <pubDate>Thu, 21 May 2020 20:35:10 +0800</pubDate>
+      <guid>/post/2020-05-21-new_website/</guid>
+      <description>&lt;p&gt;Our old website, which built by wordpress, was gradually being difficult to maintain. Therefore, we shift to hugo, an open-source static site generator, to build up a new website recently. The website is still under construction and we&amp;rsquo;ll keep updating our current projects as soon as possible. We really need advices to make it perfect, any suggestions are welcome!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tzuchieh Lin | Bioit Station (BITS) | Academia Sinica</title>
+    <link>/author/tzuchieh-lin/</link>
+      <atom:link href="/author/tzuchieh-lin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tzuchieh Lin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
+      <title>Tzuchieh Lin</title>
+      <link>/author/tzuchieh-lin/</link>
+    </image>
+    
+    <item>
+      <title>Short human eccDNAs are predictable from sequences</title>
+      <link>/publication/kaili-2023/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/kaili-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification and comparative analysis of long non-coding RNAs in the brain of fire ant queens in two different reproductive states</title>
+      <link>/publication/tsai-2022/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iTARGEX analysis of yeast deletome reveals novel regulators of transcriptional buffering in S phase and protein turnover.</title>
+      <link>/publication/huang-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/huang-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TFAS</title>
+      <link>/project/tfas/</link>
+      <pubDate>Thu, 21 May 2020 21:39:44 +0800</pubDate>
+      <guid>/project/tfas/</guid>
+      <description>&lt;p&gt;Alternative splicing (AS), the selective removal of exons and reconnection of exons by multiple processes, shapes how genetic information controls important cellular functions in different tissues of higher metazoans. In this project, we would like to investigate the association between AS and chromatin accessibility of promoter bound by different TFs genome-widely.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Borders of Cis-Regulatory DNA Sequences Preferentially Harbor the Divergent Transcription Factor Binding Motifs in the Human Genome</title>
+      <link>/publication/10-3389-fgene-2018-00571/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/10-3389-fgene-2018-00571/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

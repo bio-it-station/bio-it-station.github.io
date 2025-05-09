@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Bioit Station (BITS) | Academia Sinica</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Differential Hsp90-dependent gene expression is strain-specific and common among yeast strains</title>
+      <link>/publication/hung-2023/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/hung-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Short human eccDNAs are predictable from sequences</title>
+      <link>/publication/kaili-2023/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/kaili-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pubmedKB: an interactive web server for exploring biomedical entity relations in the biomedical literature</title>
+      <link>/publication/li-2022/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide identification of associations between enhancer and alternative splicing in human and mouse</title>
+      <link>/publication/shiau-2022/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/shiau-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification and comparative analysis of long non-coding RNAs in the brain of fire ant queens in two different reproductive states</title>
+      <link>/publication/tsai-2022/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transgenic refractory Aedes aegypti lines are resistant to multiple serotypes of dengue virus.</title>
+      <link>/publication/liu-2021/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/liu-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NK cell receptor and ligand composition influences the clearance of SARS-CoV-2</title>
+      <link>/publication/hsieh-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/hsieh-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connecting MHC-I-binding motifs with HLA alleles via deep learning.</title>
+      <link>/publication/lee-2021/</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/lee-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Termite Pest Identification Method Based on Deep Convolution Neural Networks.</title>
+      <link>/publication/huang_1-2021/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/huang_1-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iTARGEX analysis of yeast deletome reveals novel regulators of transcriptional buffering in S phase and protein turnover.</title>
+      <link>/publication/huang-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/huang-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Targeting KDM4B that coactivates c-Myc-regulated metabolism to suppress tumor growth in castration-resistant prostate cancer.</title>
+      <link>/publication/wu-2021/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/wu-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H3K4 methylation at active genes mitigates transcription-replication conflicts during replication stress.</title>
+      <link>/publication/chong-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/chong-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring the transcriptional regulatory mechanism of signal-dependent gene expression via an integrative computational approach</title>
+      <link>/publication/chiang-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/chiang-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Setting boundaries for genome-wide heterochromatic DNA deletions through flanking inverted repeats in Tetrahymena thermophile</title>
+      <link>/publication/lin-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/lin-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CATANA: a tool for generating comprehensive annotations of alternative transcript events</title>
+      <link>/publication/shiau-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/shiau-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Borders of Cis-Regulatory DNA Sequences Preferentially Harbor the Divergent Transcription Factor Binding Motifs in the Human Genome</title>
+      <link>/publication/10-3389-fgene-2018-00571/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/10-3389-fgene-2018-00571/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative genomic analyses highlight the contribution of pseudogenized protein-coding genes to human lincRNAs</title>
+      <link>/publication/liu-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/liu-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IsoPlot: a database for comparison of mRNA isoforms in fruit fly and mosquitoes.</title>
+      <link>/publication/ng-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ng-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The CrdRS two-component system in Helicobacter pylori responds to nitrosative stress.</title>
+      <link>/publication/hung-2015/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/hung-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contribution of Sequence Motif, Chromatin State, and DNA Structure Features to Predictive Models of Transcription Factor Binding in Yeast</title>
+      <link>/publication/10-1371-journal-pcbi-1004418/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/10-1371-journal-pcbi-1004418/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide analysis of enhancer RNA in gene regulation across 12 mouse tissues</title>
+      <link>/publication/cheng-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/cheng-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Associations between intronic non-B DNA structures and exon skipping</title>
+      <link>/publication/tsai-2013/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of trans-regulation on the evolutionary rates of metazoan proteins.</title>
+      <link>/publication/chen-2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Normalization and Phylogenetic Information on Estimating the Distance for Metagenomes</title>
+      <link>/publication/10-1109-tcbb-2011-111/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/10-1109-tcbb-2011-111/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of the association between transcription factor binding site variants and distinct accompanying regulatory motifs in yeast.</title>
+      <link>/publication/chiang-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/chiang-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De novo motif discovery facilitates identification of interactions between transcription factors in Saccharomyces cerevisiae</title>
+      <link>/publication/chen-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of cis-regulatory elements in yeast de novo and duplicated new genes</title>
+      <link>/publication/tsai-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MetaRank: a rank conversion scheme for comparative analysis of microbial community compositions</title>
+      <link>/publication/wang-2011/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/wang-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MetaABC—an integrated metagenomics platform for data adjustment, binning and clustering</title>
+      <link>/publication/su-2011/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/su-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence of association between Nucleosome Occupancy and the Evolution of Transcription Factor Binding Sites in Yeast</title>
+      <link>/publication/swamy-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/swamy-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide analysis of the cis-regulatory modules of divergent gene pairs in yeast.</title>
+      <link>/publication/su-2010/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/su-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reanalyze unassigned reads in Sanger based metagenomic data using conserved gene  adjacency.</title>
+      <link>/publication/weng-2010/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/weng-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of DNA-binding position variants on yeast gene expression</title>
+      <link>/publication/swamy-2009/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/swamy-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-expression of neighboring genes in the zebrafish (Danio rerio) genome.</title>
+      <link>/publication/tsai-2009/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roles of Trans and Cis Variation in Yeast Intraspecies Evolution of Gene Expression</title>
+      <link>/publication/sung-2009/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/sung-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary conservation of DNA-contact residues in DNA-binding domains.</title>
+      <link>/publication/chang-2008/</link>
+      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/chang-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering gapped binding sites of yeast transcription factors.</title>
+      <link>/publication/chen-2008/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-expression of adjacent genes in yeast cannot be simply attributed to shared regulatory system.</title>
+      <link>/publication/tsai-2007/</link>
+      <pubDate>Mon, 01 Oct 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MYBS: a comprehensive web server for mining transcription factor binding sites in yeast.</title>
+      <link>/publication/tsai-2007-a/</link>
+      <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2007-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method for identifying transcription factor binding sites in yeast.</title>
+      <link>/publication/tsai-2006/</link>
+      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical methods for identifying yeast cell cycle transcription factors.</title>
+      <link>/publication/tsai-2005/</link>
+      <pubDate>Thu, 01 Sep 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cysteine separations profiles on protein sequences infer disulfide connectivity.</title>
+      <link>/publication/zhao-2005/</link>
+      <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/zhao-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An evolutionary algorithm for large traveling salesman problems</title>
+      <link>/publication/1315755/</link>
+      <pubDate>Sun, 01 Aug 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/1315755/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An evolutionary approach for gene expression patterns.</title>
+      <link>/publication/tsai-2004/</link>
+      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some issues of designing genetic algorithms for traveling salesman problems</title>
+      <link>/publication/tsai-2004-a/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2004-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous selection genetic algorithms for traveling salesman problems</title>
+      <link>/publication/article/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GEM: a Gaussian Evolutionary Method for predicting protein side-chain conformations.</title>
+      <link>/publication/yang-2002/</link>
+      <pubDate>Thu, 01 Aug 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/yang-2002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

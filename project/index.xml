@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Bioit Station (BITS) | Academia Sinica</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 21 May 2020 21:39:44 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>TFAS</title>
+      <link>/project/tfas/</link>
+      <pubDate>Thu, 21 May 2020 21:39:44 +0800</pubDate>
+      <guid>/project/tfas/</guid>
+      <description>&lt;p&gt;Alternative splicing (AS), the selective removal of exons and reconnection of exons by multiple processes, shapes how genetic information controls important cellular functions in different tissues of higher metazoans. In this project, we would like to investigate the association between AS and chromatin accessibility of promoter bound by different TFs genome-widely.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LncRNA</title>
+      <link>/project/lncrna/</link>
+      <pubDate>Thu, 21 May 2020 21:39:26 +0800</pubDate>
+      <guid>/project/lncrna/</guid>
+      <description>&lt;p&gt;LncRNA, a transcript within 200 nucletides and without coding potential, could interact with either single-stranded or double-stranded DNA and further regulate gene expression. The overall goal of this project is to better understand the function of lncRNA acting on the transcriptional regulation and epigenetic regulation via lncRNA-DNA triplexes formation. Our primary goal is to elucidate the fundamental features of lncRNA-DNA interactions in the genomes and further develop prediction tools. Following the identification of lncRNA-DNA interaction loci, we are going to study the relationships between different lncRNAs and their associations with gene expression and chromatin status.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

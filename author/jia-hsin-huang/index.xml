@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jia-Hsin Huang | Bioit Station (BITS) | Academia Sinica</title>
+    <link>/author/jia-hsin-huang/</link>
+      <atom:link href="/author/jia-hsin-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jia-Hsin Huang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
+      <title>Jia-Hsin Huang</title>
+      <link>/author/jia-hsin-huang/</link>
+    </image>
+    
+    <item>
+      <title>pubmedKB: an interactive web server for exploring biomedical entity relations in the biomedical literature</title>
+      <link>/publication/li-2022/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/li-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide identification of associations between enhancer and alternative splicing in human and mouse</title>
+      <link>/publication/shiau-2022/</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/shiau-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification and comparative analysis of long non-coding RNAs in the brain of fire ant queens in two different reproductive states</title>
+      <link>/publication/tsai-2022/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NK cell receptor and ligand composition influences the clearance of SARS-CoV-2</title>
+      <link>/publication/hsieh-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/hsieh-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Termite Pest Identification Method Based on Deep Convolution Neural Networks.</title>
+      <link>/publication/huang_1-2021/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/huang_1-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iTARGEX analysis of yeast deletome reveals novel regulators of transcriptional buffering in S phase and protein turnover.</title>
+      <link>/publication/huang-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/huang-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TFAS</title>
+      <link>/project/tfas/</link>
+      <pubDate>Thu, 21 May 2020 21:39:44 +0800</pubDate>
+      <guid>/project/tfas/</guid>
+      <description>&lt;p&gt;Alternative splicing (AS), the selective removal of exons and reconnection of exons by multiple processes, shapes how genetic information controls important cellular functions in different tissues of higher metazoans. In this project, we would like to investigate the association between AS and chromatin accessibility of promoter bound by different TFs genome-widely.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LncRNA</title>
+      <link>/project/lncrna/</link>
+      <pubDate>Thu, 21 May 2020 21:39:26 +0800</pubDate>
+      <guid>/project/lncrna/</guid>
+      <description>&lt;p&gt;LncRNA, a transcript within 200 nucletides and without coding potential, could interact with either single-stranded or double-stranded DNA and further regulate gene expression. The overall goal of this project is to better understand the function of lncRNA acting on the transcriptional regulation and epigenetic regulation via lncRNA-DNA triplexes formation. Our primary goal is to elucidate the fundamental features of lncRNA-DNA interactions in the genomes and further develop prediction tools. Following the identification of lncRNA-DNA interaction loci, we are going to study the relationships between different lncRNAs and their associations with gene expression and chromatin status.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inferring the transcriptional regulatory mechanism of signal-dependent gene expression via an integrative computational approach</title>
+      <link>/publication/chiang-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/chiang-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CATANA: a tool for generating comprehensive annotations of alternative transcript events</title>
+      <link>/publication/shiau-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/shiau-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Borders of Cis-Regulatory DNA Sequences Preferentially Harbor the Divergent Transcription Factor Binding Motifs in the Human Genome</title>
+      <link>/publication/10-3389-fgene-2018-00571/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/10-3389-fgene-2018-00571/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative genomic analyses highlight the contribution of pseudogenized protein-coding genes to human lincRNAs</title>
+      <link>/publication/liu-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/liu-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IsoPlot: a database for comparison of mRNA isoforms in fruit fly and mosquitoes.</title>
+      <link>/publication/ng-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/ng-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

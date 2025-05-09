@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hung-Chih Ni | Bioit Station (BITS) | Academia Sinica</title>
+    <link>/author/hung-chih-ni/</link>
+      <atom:link href="/author/hung-chih-ni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hung-Chih Ni</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
+      <title>Hung-Chih Ni</title>
+      <link>/author/hung-chih-ni/</link>
+    </image>
+    
+    <item>
+      <title>NK cell receptor and ligand composition influences the clearance of SARS-CoV-2</title>
+      <link>/publication/hsieh-2021/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/hsieh-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Termite Pest Identification Method Based on Deep Convolution Neural Networks.</title>
+      <link>/publication/huang_1-2021/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/huang_1-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

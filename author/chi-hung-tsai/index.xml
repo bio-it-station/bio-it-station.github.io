@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chi-Hung Tsai | Bioit Station (BITS) | Academia Sinica</title>
+    <link>/author/chi-hung-tsai/</link>
+      <atom:link href="/author/chi-hung-tsai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chi-Hung Tsai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Apr 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
+      <title>Chi-Hung Tsai</title>
+      <link>/author/chi-hung-tsai/</link>
+    </image>
+    
+    <item>
+      <title>Cysteine separations profiles on protein sequences infer disulfide connectivity.</title>
+      <link>/publication/zhao-2005/</link>
+      <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/zhao-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GEM: a Gaussian Evolutionary Method for predicting protein side-chain conformations.</title>
+      <link>/publication/yang-2002/</link>
+      <pubDate>Thu, 01 Aug 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/yang-2002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
