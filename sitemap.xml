@@ -51,6 +51,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>/author/bing-shiun-tsai/</loc>
+    <lastmod>2025-03-17T12:00:42+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>/author/kai-li-chang/</loc>
     <lastmod>2023-04-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -63,10 +68,6 @@
   </url><url>
     <loc>/author/ru-yin-jian/</loc>
     <lastmod>2021-08-01T15:16:42+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/author/bing-shiun-tsai/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -115,17 +116,27 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2023-05-19T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>/authors/</loc>
-    <lastmod>2023-05-19T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-17T12:00:42+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>/</loc>
+    <lastmod>2025-03-17T12:00:42+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/post/2025-03-17-old-caoling-tunnel-biking/</loc>
+    <lastmod>2025-03-17T12:00:42+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2025-03-17T12:00:42+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/publication-type/2/</loc>
     <lastmod>2023-05-19T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -172,11 +183,6 @@
   </url><url>
     <loc>/publication/kaili-2023/</loc>
     <lastmod>2023-04-21T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2022-08-29T12:00:42+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
