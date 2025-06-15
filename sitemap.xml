@@ -52,7 +52,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>/author/bing-shiun-tsai/</loc>
-    <lastmod>2025-03-17T12:00:42+08:00</lastmod>
+    <lastmod>2025-06-15T22:46:58+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -116,22 +116,27 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>/post/2025-06-11-a-night-of-reunions/</loc>
+    <lastmod>2025-06-15T22:46:58+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>/authors/</loc>
-    <lastmod>2025-03-17T12:00:42+08:00</lastmod>
+    <lastmod>2025-06-15T22:46:58+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>/</loc>
-    <lastmod>2025-03-17T12:00:42+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/post/2025-03-17-old-caoling-tunnel-biking/</loc>
-    <lastmod>2025-03-17T12:00:42+08:00</lastmod>
+    <lastmod>2025-06-15T22:46:58+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>/post/</loc>
+    <lastmod>2025-06-15T22:46:58+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/post/2025-03-17-old-caoling-tunnel-biking/</loc>
     <lastmod>2025-03-17T12:00:42+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
