@@ -5,12 +5,22 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Bioit Station (BITS) | Academia Sinica</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Jun 2025 20:46:58 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 12:32:30 +0800</lastBuildDate>
     <image>
       <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
       <title>Bioit Station (BITS) | Academia Sinica</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Summer: Weclome New Friends</title>
+      <link>/post/2025-07-01-weclome-new-friends/</link>
+      <pubDate>Tue, 01 Jul 2025 12:32:30 +0800</pubDate>
+      <guid>/post/2025-07-01-weclome-new-friends/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/img/summer_intern_2025.jpg&#34; alt=&#34;img&#34;&gt;
+Welcoming new interns and friends to our lab—let’s explore, learn, and grow together!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Night of Reunions and Connections</title>
