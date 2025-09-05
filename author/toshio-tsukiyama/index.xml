@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Toshio Tsukiyama | Bioit Station (BITS) | Academia Sinica</title>
+    <link>/author/toshio-tsukiyama/</link>
+      <atom:link href="/author/toshio-tsukiyama/index.xml" rel="self" type="application/rss+xml" />
+    <description>Toshio Tsukiyama</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
+      <title>Toshio Tsukiyama</title>
+      <link>/author/toshio-tsukiyama/</link>
+    </image>
+    
+    <item>
+      <title>H3K4 methylation at active genes mitigates transcription-replication conflicts during replication stress.</title>
+      <link>/publication/chong-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/chong-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

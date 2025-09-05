@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cheng-Yan Kao | Bioit Station (BITS) | Academia Sinica</title>
+    <link>/author/cheng-yan-kao/</link>
+      <atom:link href="/author/cheng-yan-kao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cheng-Yan Kao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Mar 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
+      <title>Cheng-Yan Kao</title>
+      <link>/author/cheng-yan-kao/</link>
+    </image>
+    
+    <item>
+      <title>The Impact of Normalization and Phylogenetic Information on Estimating the Distance for Metagenomes</title>
+      <link>/publication/10-1109-tcbb-2011-111/</link>
+      <pubDate>Thu, 01 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/10-1109-tcbb-2011-111/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-expression of neighboring genes in the zebrafish (Danio rerio) genome.</title>
+      <link>/publication/tsai-2009/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary conservation of DNA-contact residues in DNA-binding domains.</title>
+      <link>/publication/chang-2008/</link>
+      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/chang-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cysteine separations profiles on protein sequences infer disulfide connectivity.</title>
+      <link>/publication/zhao-2005/</link>
+      <pubDate>Fri, 01 Apr 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/zhao-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An evolutionary algorithm for large traveling salesman problems</title>
+      <link>/publication/1315755/</link>
+      <pubDate>Sun, 01 Aug 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/1315755/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An evolutionary approach for gene expression patterns.</title>
+      <link>/publication/tsai-2004/</link>
+      <pubDate>Tue, 01 Jun 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Designing multiple-use primer set for multiplex PCR by using compact GAs</title>
+      <link>/publication/inproceedings/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/inproceedings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous selection genetic algorithms for traveling salesman problems</title>
+      <link>/publication/article/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GEM: a Gaussian Evolutionary Method for predicting protein side-chain conformations.</title>
+      <link>/publication/yang-2002/</link>
+      <pubDate>Thu, 01 Aug 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/yang-2002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

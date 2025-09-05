@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tien-Hsien Chang | Bioit Station (BITS) | Academia Sinica</title>
+    <link>/author/tien-hsien-chang/</link>
+      <atom:link href="/author/tien-hsien-chang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tien-Hsien Chang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
+      <title>Tien-Hsien Chang</title>
+      <link>/author/tien-hsien-chang/</link>
+    </image>
+    
+    <item>
+      <title>Genome-wide analysis of the cis-regulatory modules of divergent gene pairs in yeast.</title>
+      <link>/publication/su-2010/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/su-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roles of Trans and Cis Variation in Yeast Intraspecies Evolution of Gene Expression</title>
+      <link>/publication/sung-2009/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/sung-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MYBS: a comprehensive web server for mining transcription factor binding sites in yeast.</title>
+      <link>/publication/tsai-2007-a/</link>
+      <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2007-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mei-Ju May Chen | Bioit Station (BITS) | Academia Sinica</title>
+    <link>/author/mei-ju-may-chen/</link>
+      <atom:link href="/author/mei-ju-may-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mei-Ju May Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
+      <title>Mei-Ju May Chen</title>
+      <link>/author/mei-ju-may-chen/</link>
+    </image>
+    
+    <item>
+      <title>De novo motif discovery facilitates identification of interactions between transcription factors in Saccharomyces cerevisiae</title>
+      <link>/publication/chen-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering gapped binding sites of yeast transcription factors.</title>
+      <link>/publication/chen-2008/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

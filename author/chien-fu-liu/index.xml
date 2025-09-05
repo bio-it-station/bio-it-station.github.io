@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chien-Fu Liu | Bioit Station (BITS) | Academia Sinica</title>
+    <link>/author/chien-fu-liu/</link>
+      <atom:link href="/author/chien-fu-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chien-Fu Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
+      <title>Chien-Fu Liu</title>
+      <link>/author/chien-fu-liu/</link>
+    </image>
+    
+    <item>
+      <title>A feature extraction free approach for protein interactome inference from co-elution data</title>
+      <link>/publication/yushin-2023/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/yushin-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
