@@ -5,12 +5,20 @@
     <link>/author/yu-hsin-chen/</link>
       <atom:link href="/author/yu-hsin-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Yu-Hsin Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
       <title>Yu-Hsin Chen</title>
       <link>/author/yu-hsin-chen/</link>
     </image>
+    
+    <item>
+      <title>Complete end-to-end learning from protein feature representation to protein interactome inference</title>
+      <link>/publication/chen-2025-gigascience/</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-2025-gigascience/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A feature extraction free approach for protein interactome inference from co-elution data</title>

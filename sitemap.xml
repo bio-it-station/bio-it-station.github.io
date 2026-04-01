@@ -84,7 +84,7 @@
     <priority>0.5</priority>
   </url><url>
     <loc>/author/yu-hsin-chen/</loc>
-    <lastmod>2023-06-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-11-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -118,21 +118,66 @@
     <priority>0.5</priority>
   </url><url>
     <loc>/authors/</loc>
-    <lastmod>2025-08-26T09:04:08+08:00</lastmod>
+    <lastmod>2026-04-01T09:04:08+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>/</loc>
-    <lastmod>2025-08-26T09:04:08+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/post/2025-08-25-lab-trip-riddle-city/</loc>
-    <lastmod>2025-08-26T09:04:08+08:00</lastmod>
+    <lastmod>2026-04-01T09:04:08+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>/post/</loc>
+    <lastmod>2026-04-01T09:04:08+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/post/2026-03-30-strawberry-picking/</loc>
+    <lastmod>2026-04-01T09:04:08+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/author/ting-yu-yeh/</loc>
+    <lastmod>2026-04-01T09:04:08+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2025-11-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/author/chien-fu-liu/</loc>
+    <lastmod>2025-11-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/publication/chen-2025-gigascience/</loc>
+    <lastmod>2025-11-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/author/huai-kuang-tsai/</loc>
+    <lastmod>2025-11-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/author/jun-yi-leu/</loc>
+    <lastmod>2025-11-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2025-11-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2025-11-06T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/post/2025-08-25-lab-trip-riddle-city/</loc>
     <lastmod>2025-08-26T09:04:08+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -152,11 +197,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>/publication/li-2025/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -172,22 +212,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/author/huai-kuang-tsai/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>/author/peng-hsuan-li/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2025-02-25T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/publication/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -328,16 +353,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>/publication/yushin-2023/</loc>
-    <lastmod>2023-06-16T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/author/chien-fu-liu/</loc>
-    <lastmod>2023-06-16T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/author/jun-yi-leu/</loc>
     <lastmod>2023-06-16T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -1605,10 +1620,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>/talk/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/author/ting-yu-yeh/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
