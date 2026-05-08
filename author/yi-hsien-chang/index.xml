@@ -20,14 +20,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>LncRNA</title>
-      <link>/project/lncrna/</link>
-      <pubDate>Thu, 21 May 2020 21:39:26 +0800</pubDate>
-      <guid>/project/lncrna/</guid>
-      <description>&lt;p&gt;LncRNA, a transcript within 200 nucletides and without coding potential, could interact with either single-stranded or double-stranded DNA and further regulate gene expression. The overall goal of this project is to better understand the function of lncRNA acting on the transcriptional regulation and epigenetic regulation via lncRNA-DNA triplexes formation. Our primary goal is to elucidate the fundamental features of lncRNA-DNA interactions in the genomes and further develop prediction tools. Following the identification of lncRNA-DNA interaction loci, we are going to study the relationships between different lncRNAs and their associations with gene expression and chromatin status.&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>

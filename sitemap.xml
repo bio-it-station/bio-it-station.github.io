@@ -48,10 +48,16 @@
     <priority>0.5</priority>
   </url><url>
     <loc>/author/yu-hsuan-huang/</loc>
+    <lastmod>2026-02-26T16:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>/author/po-fen-lin/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/author/ru-yin-jian/</loc>
+    <lastmod>2026-01-01T15:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -70,16 +76,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/author/ru-yin-jian/</loc>
-    <lastmod>2021-08-01T15:16:42+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>/author/yi-ting-han/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>/author/kai-ze-zhu/</loc>
+    <lastmod>2025-01-01T15:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -88,12 +90,18 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>/author/shu-qi-yu/</loc>
+    <lastmod>2026-01-01T15:00:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>/author/jia-hong-chen/</loc>
     <lastmod>2023-04-21T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/author/shu-qi-yu/</loc>
+    <loc>/author/shang-kok-ng/</loc>
+    <lastmod>2025-08-01T15:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -106,10 +114,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>/author/hsuan-yu-ko/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/author/shang-kok-ng/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -142,6 +146,26 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>/project/2026-virus/</loc>
+    <lastmod>2026-02-26T16:00:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/author/huai-kuang-tsai/</loc>
+    <lastmod>2026-02-26T16:00:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/project/</loc>
+    <lastmod>2026-02-26T16:00:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/project/2025-sv/</loc>
+    <lastmod>2026-01-01T15:00:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>/publication-type/2/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -153,11 +177,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>/publication/chen-2025-gigascience/</loc>
-    <lastmod>2025-11-06T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/author/huai-kuang-tsai/</loc>
     <lastmod>2025-11-06T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -179,6 +198,11 @@
   </url><url>
     <loc>/post/2025-08-25-lab-trip-riddle-city/</loc>
     <lastmod>2025-08-26T09:04:08+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/project/2025-dark-genes/</loc>
+    <lastmod>2025-08-01T15:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -219,6 +243,11 @@
   </url><url>
     <loc>/author/yih-yun-sun/</loc>
     <lastmod>2025-02-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>/project/2025-drug-target-affinity/</loc>
+    <lastmod>2025-01-01T15:00:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -784,26 +813,6 @@
   </url><url>
     <loc>/author/ying-yuan-liu/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/project/</loc>
-    <lastmod>2020-05-21T21:39:44+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/project/tfas/</loc>
-    <lastmod>2020-05-21T21:39:44+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/author/jimmy-hung-chih-ni/</loc>
-    <lastmod>2020-05-21T21:39:26+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/project/lncrna/</loc>
-    <lastmod>2020-05-21T21:39:26+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

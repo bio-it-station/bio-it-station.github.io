@@ -29,15 +29,6 @@
     </item>
     
     <item>
-      <title>TFAS</title>
-      <link>/project/tfas/</link>
-      <pubDate>Thu, 21 May 2020 21:39:44 +0800</pubDate>
-      <guid>/project/tfas/</guid>
-      <description>&lt;p&gt;Alternative splicing (AS), the selective removal of exons and reconnection of exons by multiple processes, shapes how genetic information controls important cellular functions in different tissues of higher metazoans. In this project, we would like to investigate the association between AS and chromatin accessibility of promoter bound by different TFs genome-widely.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>CATANA: a tool for generating comprehensive annotations of alternative transcript events</title>
       <link>/publication/shiau-2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>

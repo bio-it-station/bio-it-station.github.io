@@ -34,5 +34,14 @@ Making jam with strawberries. --&gt;
 Cozy hiking at Bishanyan (碧山巖) --&gt;</description>
     </item>
     
+    <item>
+      <title>Host defense against viruses</title>
+      <link>/project/2026-virus/</link>
+      <pubDate>Thu, 26 Feb 2026 16:00:00 +0800</pubDate>
+      <guid>/project/2026-virus/</guid>
+      <description>&lt;p&gt;Viruses trigger complex host immune responses, but it remains unclear how different viruses induce distinct antiviral programs and shape cell-cell communication. Using machine learning on transcriptomic data, we seek to identify the characteristic gene programs associated with different viral infections and to map how cells coordinate with one another over the course of infection.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

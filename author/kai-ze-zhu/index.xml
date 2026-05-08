@@ -5,12 +5,28 @@
     <link>/author/kai-ze-zhu/</link>
       <atom:link href="/author/kai-ze-zhu/index.xml" rel="self" type="application/rss+xml" />
     <description>Kai-Ze Zhu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 15:00:00 +0800</lastBuildDate>
     <image>
       <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
       <title>Kai-Ze Zhu</title>
       <link>/author/kai-ze-zhu/</link>
     </image>
+    
+    <item>
+      <title>Drug-Target Affinity</title>
+      <link>/project/2025-drug-target-affinity/</link>
+      <pubDate>Wed, 01 Jan 2025 15:00:00 +0800</pubDate>
+      <guid>/project/2025-drug-target-affinity/</guid>
+      <description>&lt;p&gt;Accelerating drug discovery requires precise and efficient prediction of how drug molecules interact with their protein targets. Our research focuses on overcoming the generalization limits of current models by developing an end-to-end deep learning framework that integrates Large Language Models (LLMs) and Heterogeneous Graph Neural Networks (HGNNs).&lt;/p&gt;
+&lt;p&gt;This collaborative project follows a robust Folding–Docking–Affinity workflow. We leads the Folding and Structural module, providing the biological foundation for the entire pipeline:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Automated Structural Modeling: We have established a high-throughput workflow using AlphaFold2 to transform protein sequences (FASTA) into accurate 3D structures.&lt;/li&gt;
+&lt;li&gt;Precision Feature Extraction: Beyond basic structures, our module extracts critical biological descriptors, including secondary structures, backbone torsion angles, and solvent-accessible surface areas.&lt;/li&gt;
+&lt;li&gt;Intelligent Binding Pocket Identification: By integrating UniProt data and DiffDock inference, we automatically pinpoint potential binding sites, ensuring the model captures both global and local structural nuances.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;By providing high-quality structural and functional features, our team enables the subsequent docking and affinity modules (developed in collaboration with Dr. Che Lin’s team) to achieve superior predictive accuracy. Moving forward, we are integrating structure-level molecular docking to complete a fully automated platform, making DTA prediction more practical and powerful for pharmaceutical research.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

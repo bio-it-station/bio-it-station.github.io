@@ -37,24 +37,6 @@
     </item>
     
     <item>
-      <title>TFAS</title>
-      <link>/project/tfas/</link>
-      <pubDate>Thu, 21 May 2020 21:39:44 +0800</pubDate>
-      <guid>/project/tfas/</guid>
-      <description>&lt;p&gt;Alternative splicing (AS), the selective removal of exons and reconnection of exons by multiple processes, shapes how genetic information controls important cellular functions in different tissues of higher metazoans. In this project, we would like to investigate the association between AS and chromatin accessibility of promoter bound by different TFs genome-widely.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>LncRNA</title>
-      <link>/project/lncrna/</link>
-      <pubDate>Thu, 21 May 2020 21:39:26 +0800</pubDate>
-      <guid>/project/lncrna/</guid>
-      <description>&lt;p&gt;LncRNA, a transcript within 200 nucletides and without coding potential, could interact with either single-stranded or double-stranded DNA and further regulate gene expression. The overall goal of this project is to better understand the function of lncRNA acting on the transcriptional regulation and epigenetic regulation via lncRNA-DNA triplexes formation. Our primary goal is to elucidate the fundamental features of lncRNA-DNA interactions in the genomes and further develop prediction tools. Following the identification of lncRNA-DNA interaction loci, we are going to study the relationships between different lncRNAs and their associations with gene expression and chromatin status.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>H3K4 methylation at active genes mitigates transcription-replication conflicts during replication stress.</title>
       <link>/publication/chong-2020/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>

@@ -5,12 +5,21 @@
     <link>/author/yu-hsuan-huang/</link>
       <atom:link href="/author/yu-hsuan-huang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yu-Hsuan Huang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 26 Feb 2026 16:00:00 +0800</lastBuildDate>
     <image>
       <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
       <title>Yu-Hsuan Huang</title>
       <link>/author/yu-hsuan-huang/</link>
     </image>
+    
+    <item>
+      <title>Host defense against viruses</title>
+      <link>/project/2026-virus/</link>
+      <pubDate>Thu, 26 Feb 2026 16:00:00 +0800</pubDate>
+      <guid>/project/2026-virus/</guid>
+      <description>&lt;p&gt;Viruses trigger complex host immune responses, but it remains unclear how different viruses induce distinct antiviral programs and shape cell-cell communication. Using machine learning on transcriptomic data, we seek to identify the characteristic gene programs associated with different viral infections and to map how cells coordinate with one another over the course of infection.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
