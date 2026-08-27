@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Po-Hsiang Hung | Bioit Station (BITS) | Academia Sinica</title>
+    <link>/author/po-hsiang-hung/</link>
+      <atom:link href="/author/po-hsiang-hung/index.xml" rel="self" type="application/rss+xml" />
+    <description>Po-Hsiang Hung</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
+      <title>Po-Hsiang Hung</title>
+      <link>/author/po-hsiang-hung/</link>
+    </image>
+    
+    <item>
+      <title>Differential Hsp90-dependent gene expression is strain-specific and common among yeast strains</title>
+      <link>/publication/hung-2023/</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/hung-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

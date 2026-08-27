@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chen-Ming Hsu | Bioit Station (BITS) | Academia Sinica</title>
+    <link>/author/chen-ming-hsu/</link>
+      <atom:link href="/author/chen-ming-hsu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chen-Ming Hsu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
+      <title>Chen-Ming Hsu</title>
+      <link>/author/chen-ming-hsu/</link>
+    </image>
+    
+    <item>
+      <title>Discovering gapped binding sites of yeast transcription factors.</title>
+      <link>/publication/chen-2008/</link>
+      <pubDate>Fri, 01 Feb 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

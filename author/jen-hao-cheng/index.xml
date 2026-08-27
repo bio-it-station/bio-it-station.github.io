@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jen-Hao Cheng | Bioit Station (BITS) | Academia Sinica</title>
+    <link>/author/jen-hao-cheng/</link>
+      <atom:link href="/author/jen-hao-cheng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jen-Hao Cheng</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
+      <title>Jen-Hao Cheng</title>
+      <link>/author/jen-hao-cheng/</link>
+    </image>
+    
+    <item>
+      <title>Genome-wide analysis of enhancer RNA in gene regulation across 12 mouse tissues</title>
+      <link>/publication/cheng-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/cheng-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Associations between intronic non-B DNA structures and exon skipping</title>
+      <link>/publication/tsai-2013/</link>
+      <pubDate>Tue, 01 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of trans-regulation on the evolutionary rates of metazoan proteins.</title>
+      <link>/publication/chen-2013/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/chen-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolution of cis-regulatory elements in yeast de novo and duplicated new genes</title>
+      <link>/publication/tsai-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/tsai-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MetaABC—an integrated metagenomics platform for data adjustment, binning and clustering</title>
+      <link>/publication/su-2011/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/su-2011/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

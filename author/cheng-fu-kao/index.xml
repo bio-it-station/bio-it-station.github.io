@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cheng-Fu Kao | Bioit Station (BITS) | Academia Sinica</title>
+    <link>/author/cheng-fu-kao/</link>
+      <atom:link href="/author/cheng-fu-kao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Cheng-Fu Kao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
+      <title>Cheng-Fu Kao</title>
+      <link>/author/cheng-fu-kao/</link>
+    </image>
+    
+    <item>
+      <title>Short human eccDNAs are predictable from sequences</title>
+      <link>/publication/kaili-2023/</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/kaili-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iTARGEX analysis of yeast deletome reveals novel regulators of transcriptional buffering in S phase and protein turnover.</title>
+      <link>/publication/huang-2021/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/huang-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H3K4 methylation at active genes mitigates transcription-replication conflicts during replication stress.</title>
+      <link>/publication/chong-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/chong-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

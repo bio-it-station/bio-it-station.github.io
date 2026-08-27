@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Krishna B S Swamy | Bioit Station (BITS) | Academia Sinica</title>
+    <link>/author/krishna-b-s-swamy/</link>
+      <atom:link href="/author/krishna-b-s-swamy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Krishna B S Swamy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu644e87831395b6e0ff81617f122a14d5_22555_512x512_fill_lanczos_center_3.png</url>
+      <title>Krishna B S Swamy</title>
+      <link>/author/krishna-b-s-swamy/</link>
+    </image>
+    
+    <item>
+      <title>Analysis of the association between transcription factor binding site variants and distinct accompanying regulatory motifs in yeast.</title>
+      <link>/publication/chiang-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/chiang-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence of association between Nucleosome Occupancy and the Evolution of Transcription Factor Binding Sites in Yeast</title>
+      <link>/publication/swamy-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/swamy-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of DNA-binding position variants on yeast gene expression</title>
+      <link>/publication/swamy-2009/</link>
+      <pubDate>Tue, 01 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/swamy-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
